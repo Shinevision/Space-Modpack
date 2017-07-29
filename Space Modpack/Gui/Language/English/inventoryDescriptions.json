@@ -28,5 +28,10 @@
 	{
 		"title": "#4286f4 Space stations #ff0000 Hazard #4286f4 block",
 		"description": "Use this block to build the insides you your space stations or space ships!"
+	},
+	"200487e7-97eb-49af-980c-6342fd39eca6": //shinevision
+	{
+		"title": "Radiator Panel",
+		"description": "Use this block to cool down your space stations"
 	}
 }

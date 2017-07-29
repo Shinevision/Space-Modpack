@@ -54,6 +54,15 @@
 			"color": "000000",
 			"tiling": 8,
 			"physicsMaterial": "Plastic"
+		},
+		{
+			"uuid": "200487e7-97eb-49af-980c-6342fd39eca6",
+			"dif": "$MOD_DATA/Objects/Textures/Radiator_panel__DIF_01.png",
+			"asg": "$MOD_DATA/Objects/Textures/noasg_asg.png",
+			"nor": "$MOD_DATA/Objects/Textures/Radiator_panel__NOR_01.png",
+			"color": "000000",
+			"tiling": 8,
+			"physicsMaterial": "Plastic"
 		}
 	]
 }
