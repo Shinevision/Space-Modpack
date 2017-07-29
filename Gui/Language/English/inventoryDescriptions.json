@@ -37,6 +37,21 @@
 	"60d11652-5f27-4b1c-b49c-08767c52cc5b":
 	{
 		"title": "Moon/Mars rock",
-		"description": "It looks like Moon or Mars rock depending on the color you paint it to!"
+		"description": "It looks like Moon or Mars rock depending on the color you paint it!"
+	},
+	"1082e31d-4c9a-476c-965f-1fa3e15f01cf":
+	{
+		"title": "Rocket Ship Seat",
+		"description": "You can use this part to add to your space ships as a seat!"
+	},
+	"17c45d79-e806-49e3-a660-cd6e1fb33891":
+	{
+		"title": "Rocket Ship Top",
+		"description": "You can use this part to add to your space ships as a topper!"
+	},
+	"9ac6fde9-a433-4453-a72c-bf585672105f":
+	{
+		"title": "Rocket Ship Bottom",
+		"description": "You can use this part to add to your space ships as a bottomer? If that is a word XD!"
 	}
 }
