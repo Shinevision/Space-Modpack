@@ -137,6 +137,33 @@
 			"rotationSet": "PropY",
 			"button": { }
 			
+		},
+		
+		{
+			"uuid": "b5931b43-34f0-4c54-ad5e-36f9537c8919", // gyroscope core
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$MOD_DATA/Objects/Textures/gyroscopecoredif.png",
+									"$MOD_DATA/Objects/Textures/gyroscopecoreasg.png",
+									"$GAME_DATA/Textures/nonor_nor.png"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/gyroscopecore.obj"
+					}
+				]
+			},
+			"color": "0072FF",
+			"box": {"x": 1, "y": 1, "z": 1},
+			"rotationSet": "PropFull",
+			"density": 5000000
+			
+			
 		}
    
    
