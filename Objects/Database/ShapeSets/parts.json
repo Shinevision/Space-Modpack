@@ -110,6 +110,31 @@
 			"rotationSet": "PropFull"
 			
 		},
+		{
+			"uuid": "148fec95-471e-4ed0-9aad-ae853426b69a", // soyuz Main Body + Thruster
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$MOD_DATA/Objects/Textures/moonrock.png",
+									"$MOD_DATA/Objects/Textures/noasg_asg.png",
+									"$GAME_DATA/Textures/nonor_nor.png"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/soyuz/soyuz_Thruster_Body.obj"
+					}
+				]
+			},
+			"color": "5f6266",
+			//"box": {"x": 15, "y": 20, "z": 15},
+			"cylinder": { "diameter": 11, "depth": 45, "axis": "Y" },
+			"rotationSet": "PropFull"
+			
+		}, 
 			////////////////////SOYUZ_END////////////////////
 			
 		{
