@@ -1,2 +1,17 @@
-/*Look in Data/Gui/Language/English/inventoryItemDescriptions.json for info on how to set up this file*/
-null
+{
+	"7d1e1d93-b7f8-4f4e-ab7b-c86e3566cf6c":
+	{
+		"title": "Space Station Block",
+		"description": "Use this block to make amazing creations or space stations!"
+	},
+	"12873d2a-07b0-4ed2-a052-5d82ee30a3a2":
+	{
+		"title": "Solar Panel Block",
+		"description": "Use this block to add to amazing creations or space stations!"
+	},
+	"a0317c48-b404-4b77-8569-9612b7d01f52":
+	{
+		"title": "Insulation",
+		"description": "Use this block to add to amazing creations or space stations!"
+	}
+}
