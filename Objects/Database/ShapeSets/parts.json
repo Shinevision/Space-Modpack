@@ -131,7 +131,7 @@
 			},
 			"color": "5f6266",
 			//"box": {"x": 15, "y": 20, "z": 15},
-			"cylinder": { "diameter": 11, "depth": 45, "axis": "Y" },
+			"cylinder": { "diameter": 10, "depth": 45, "axis": "Y" },
 			"rotationSet": "PropFull"
 			
 		}, 
