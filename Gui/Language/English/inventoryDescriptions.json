@@ -42,7 +42,7 @@
 	"1082e31d-4c9a-476c-965f-1fa3e15f01cf": //Dart Frog
 	{
 		"title": "Soyuz descent module (half)",
-		"description": "Place on Soyuz thruster 2 back to each other!"
+		"description": "Place module two of them back to each other on Soyuz propulsion module!"
 	},
 	"17c45d79-e806-49e3-a660-cd6e1fb33891": //Dart Frog
 	{
@@ -51,7 +51,7 @@
 	},
 	"9ac6fde9-a433-4453-a72c-bf585672105f": //Dart Frog
 	{
-		"title": "Soyuz propulsion and instrumentation module",
+		"title": "Soyuz propulsion module",
 		"description": "Place this part first! It's a thruster so you already have forward thrust! Hide stabilizers and fly mechanics inside!"
 	}
 }
