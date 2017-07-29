@@ -32,7 +32,7 @@
 			"uuid": "09c99d75-22ac-4dcf-8dba-85e30732066f",
 			"dif": "$MOD_DATA/Objects/Textures/solar_panel__DIF_02.png",
 			"asg": "$MOD_DATA/Objects/Textures/noasg_asg.png",
-			"nor": "$MOD_DATA/Objects/Textures/solar_panel__NOR_02.png",
+			"nor": "$MOD_DATA/Objects/Textures/nonor_nor.png",
 			"color": "000000",
 			"tiling": 8,
 			"physicsMaterial": "Plastic"
@@ -41,7 +41,7 @@
 			"uuid": "acc14fa2-7f72-45af-8ffc-91197c453580",
 			"dif": "$MOD_DATA/Objects/Textures/Hazard_Block_DIF_01.png",
 			"asg": "$MOD_DATA/Objects/Textures/noasg_asg.png",
-			"nor": "$MOD_DATA/Objects/Textures/Hazard_Block_NOR_01.png",
+			"nor": "$MOD_DATA/Objects/Textures/nonor_nor.png",
 			"color": "000000",
 			"tiling": 8,
 			"physicsMaterial": "Plastic"
@@ -59,7 +59,7 @@
 			"uuid": "200487e7-97eb-49af-980c-6342fd39eca6",
 			"dif": "$MOD_DATA/Objects/Textures/Radiator_panel__DIF_01.png",
 			"asg": "$MOD_DATA/Objects/Textures/noasg_asg.png",
-			"nor": "$MOD_DATA/Objects/Textures/Radiator_panel__NOR_01.png",
+			"nor": "$MOD_DATA/Objects/Textures/nonor_nor.png",
 			"color": "000000",
 			"tiling": 8,
 			"physicsMaterial": "Plastic"
