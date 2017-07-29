@@ -33,5 +33,10 @@
 	{
 		"title": "Radiator Panel",
 		"description": "Use this block to cool down your space stations"
+	},
+	"60d11652-5f27-4b1c-b49c-08767c52cc5b":
+	{
+		"title": "Moon/Mars rock",
+		"description": "It looks like Moon or Mars rock depending on the color you paint it to!"
 	}
 }
