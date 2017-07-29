@@ -19,7 +19,7 @@
 								"material": "DifAsgNor"
 							}
 						],
-						"mesh": "$MOD_DATA/Objects/Mesh/soyuzseat1.obj"
+						"mesh": "$MOD_DATA/Objects/Mesh/soyuz/soyuzseat1.obj"
 					}
 				]
 			},
@@ -53,7 +53,7 @@
 								"material": "DifAsgNor"
 							}
 						],
-						"mesh": "$MOD_DATA/Objects/Mesh/soyuztop.obj"
+						"mesh": "$MOD_DATA/Objects/Mesh/soyuz/soyuztop.obj"
 					}
 				]
 			},
@@ -77,7 +77,7 @@
 								"material": "DifAsgNor"
 							}
 						],
-						"mesh": "$MOD_DATA/Objects/Mesh/soyuzbottom.obj"
+						"mesh": "$MOD_DATA/Objects/Mesh/soyuz/soyuzbottom.obj"
 					}
 				]
 			},
