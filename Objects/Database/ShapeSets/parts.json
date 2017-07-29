@@ -83,7 +83,7 @@
 			},
 			"color": "808080",
 			"box": {"x": 2, "y": 1, "z": 2},
-			"rotationSet": "PropY"
+			"rotationSet": "PropFull"
 			
 		},
 		{
@@ -109,8 +109,35 @@
 			"box": {"x": 4, "y": 1, "z": 1},
 			"rotationSet": "PropFull"
 			
-		} 
+		},
 			////////////////////SOYUZ_END////////////////////
+			
+		{
+			"uuid": "5ac3e614-6205-49fa-afa2-da176485f4b1", // forcefield block
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$MOD_DATA/Objects/Textures/noasg_asg.png",
+									"$MOD_DATA/Objects/Textures/noasg_asg.png",
+									"$GAME_DATA/Textures/nonor_nor.png"
+								],
+								"material": "PoseAnimDifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/forcefieldblock.obj",
+						"pose0": "$MOD_DATA/Objects/Mesh/forcefieldblock.obj"
+					}
+				]
+			},
+			"color": "808080",
+			"box": {"x": 1, "y": 1, "z": 1},
+			"rotationSet": "PropY",
+			"button": { }
+			
+		}
    
    
    
