@@ -38,6 +38,15 @@
 			"physicsMaterial": "Plastic"
 		},
 		{
+			"uuid": "acc14fa2-7f72-45af-8ffc-91197c453580",
+			"dif": "$MOD_DATA/Objects/Textures/Hazard_Block_DIF_01.png",
+			"asg": "$MOD_DATA/Objects/Textures/noasg_asg.png",
+			"nor": "$MOD_DATA/Objects/Textures/Hazard_Block_NOR_01.png",
+			"color": "000000",
+			"tiling": 8,
+			"physicsMaterial": "Plastic"
+		},
+		{
 			"uuid": "b856bf02-08ba-4ff6-8b07-80bd37e08175",
 			"dif": "$MOD_DATA/Objects/Textures/Inside_dif.png",
 			"asg": "$MOD_DATA/Objects/Textures/noasg_asg.png",
