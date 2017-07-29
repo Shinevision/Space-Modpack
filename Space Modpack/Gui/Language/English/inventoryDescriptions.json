@@ -13,5 +13,10 @@
 	{
 		"title": "Insulation",
 		"description": "Use this block to add to amazing creations or space stations!"
+	},
+	"09c99d75-22ac-4dcf-8dba-85e30732066f":
+	{
+		"title": "Solar Panel",
+		"description": "Use this block to generate power for your space ship!"
 	}
 }
