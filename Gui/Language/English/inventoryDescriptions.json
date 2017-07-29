@@ -53,5 +53,10 @@
 	{
 		"title": "Soyuz propulsion module",
 		"description": "Place this part first! It's a thruster so you already have forward thrust! Hide stabilizers and fly mechanics inside!"
+	},
+		"4734af69-3213-4cf6-b621-9049882308b1": //Izapertron
+	{
+		"title": "Galaxy Wallpaper",
+		"description": "Use this block to decorate your space ships!"
 	}
 }

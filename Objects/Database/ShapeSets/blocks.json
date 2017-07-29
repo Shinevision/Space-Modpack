@@ -2,7 +2,7 @@
 	"blockList":
 	[
 		{
-			"uuid": "7d1e1d93-b7f8-4f4e-ab7b-c86e3566cf6c",
+			"uuid": "7d1e1d93-b7f8-4f4e-ab7b-c86e3566cf6c", //Ship block
 			"dif": "$MOD_DATA/Objects/Textures/shipblock_dif.png",
 			"asg": "$MOD_DATA/Objects/Textures/shipblock_asg.png",
 			"nor": "$MOD_DATA/Objects/Textures/shipblock_nor.png",
@@ -11,7 +11,7 @@
 			"physicsMaterial": "Metal"
 		},
 		{
-			"uuid": "12873d2a-07b0-4ed2-a052-5d82ee30a3a2",
+			"uuid": "12873d2a-07b0-4ed2-a052-5d82ee30a3a2", //Solar panel 1
 			"dif": "$MOD_DATA/Objects/Textures/solarpanel_dif.png",
 			"asg": "$MOD_DATA/Objects/Textures/solarpanel_asg.png",
 			"nor": "$MOD_DATA/Objects/Textures/solarpanel_nor.png",
@@ -20,7 +20,7 @@
 			"physicsMaterial": "Metal"
 		},
 		{
-			"uuid": "a0317c48-b404-4b77-8569-9612b7d01f52",
+			"uuid": "a0317c48-b404-4b77-8569-9612b7d01f52", //Inulation block
 			"dif": "$MOD_DATA/Objects/Textures/ins_dif.png",
 			"asg": "$MOD_DATA/Objects/Textures/ins_asg.png",
 			"nor": "$MOD_DATA/Objects/Textures/nonor_nor.png",
@@ -29,7 +29,7 @@
 			"physicsMaterial": "Plastic"
 		},
 		{
-			"uuid": "09c99d75-22ac-4dcf-8dba-85e30732066f",
+			"uuid": "09c99d75-22ac-4dcf-8dba-85e30732066f", //Solar panel 2
 			"dif": "$MOD_DATA/Objects/Textures/solar_panel__DIF_02.png",
 			"asg": "$MOD_DATA/Objects/Textures/noasg_asg.png",
 			"nor": "$MOD_DATA/Objects/Textures/nonor_nor.png",
@@ -38,7 +38,7 @@
 			"physicsMaterial": "Plastic"
 		},
 		{
-			"uuid": "acc14fa2-7f72-45af-8ffc-91197c453580",
+			"uuid": "acc14fa2-7f72-45af-8ffc-91197c453580", //Hazard block
 			"dif": "$MOD_DATA/Objects/Textures/Hazard_Block_DIF_01.png",
 			"asg": "$MOD_DATA/Objects/Textures/noasg_asg.png",
 			"nor": "$MOD_DATA/Objects/Textures/nonor_nor.png",
@@ -47,7 +47,7 @@
 			"physicsMaterial": "Plastic"
 		},
 		{
-			"uuid": "b856bf02-08ba-4ff6-8b07-80bd37e08175",
+			"uuid": "b856bf02-08ba-4ff6-8b07-80bd37e08175", //Inside space station block
 			"dif": "$MOD_DATA/Objects/Textures/Inside_dif.png",
 			"asg": "$MOD_DATA/Objects/Textures/noasg_asg.png",
 			"nor": "$MOD_DATA/Objects/Textures/nonor_nor.png",
@@ -56,7 +56,7 @@
 			"physicsMaterial": "Plastic"
 		},
 		{
-			"uuid": "200487e7-97eb-49af-980c-6342fd39eca6",
+			"uuid": "200487e7-97eb-49af-980c-6342fd39eca6", //Radiator panel
 			"dif": "$MOD_DATA/Objects/Textures/Radiator_panel__DIF_01.png",
 			"asg": "$MOD_DATA/Objects/Textures/noasg_asg.png",
 			"nor": "$MOD_DATA/Objects/Textures/nonor_nor.png",
@@ -64,21 +64,23 @@
 			"tiling": 8,
 			"physicsMaterial": "Plastic"
 		},
-		
-		//moon mars block
-		
 		{
-			"uuid": "60d11652-5f27-4b1c-b49c-08767c52cc5b",
+			"uuid": "60d11652-5f27-4b1c-b49c-08767c52cc5b", //Moon block
 			"dif": "$MOD_DATA/Objects/Textures/moonrock.png",
 			"asg": "$MOD_DATA/Objects/Textures/noasg_asg.png",
 			"nor": "$GAME_DATA/Textures/nonor_nor.png",
 			"color": "C0C0C0",
 			"tiling": 8,
 			"phisicsMaterial": "Rock"
-		}
-		
-		
-		
-		
+		},
+		{
+			"uuid": "4734af69-3213-4cf6-b621-9049882308b1", //Galaxy block
+			"dif": "$MOD_DATA/Objects/Textures/galaxy.png",
+			"asg": "$MOD_DATA/Objects/Textures/noasg_asg.png",
+			"nor": "$MOD_DATA/Objects/Textures/nonor_nor.png",
+			"color": "000000",
+			"tiling": 8,
+			"physicsMaterial": "Plastic"
+		}		
 	]
 }
