@@ -1,0 +1,30 @@
+{
+	"partList": [
+		{
+			"uuid": "e1872a75-227f-43e7-b2f9-eb416fa12413",
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList": [
+							{
+								"textureList": [
+									"$MOD_DATA/Objects/Textures/examplename_dif.tga",
+									"$MOD_DATA/Objects/Textures/examplename_asg.tga",
+									"$MOD_DATA/Objects/Textures/examplename_nor.tga"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/examplename.fbx"
+					}
+				]
+			},
+			"rotationSet": "PropY",
+			"color": "8f8f8f",
+			"box": { "x": 1, "y": 2, "z": 3 },
+			"density": 500.0,
+			"physicsMaterial": "Plastic",
+			"sticky": "+X+Y"
+		}
+	]
+}

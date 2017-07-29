@@ -1,0 +1,15 @@
+{
+	"blockList":
+	[
+		{
+			"uuid": "0d5ad108-1aaf-43cd-b951-ba42fc2f98e5",
+			"dif": "$MOD_DATA/Objects/Textures/examplename_dif.tga",
+			"asg": "$MOD_DATA/Objects/Textures/examplename_asg.tga",
+			"nor": "$MOD_DATA/Objects/Textures/examplename_nor.tga",
+			"color": "419c10",
+			"density": 250,
+			"tiling": 4,
+			"physicsMaterial": "Rock"
+		}
+	]
+}
