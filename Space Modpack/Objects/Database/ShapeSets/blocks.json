@@ -1,3 +1,33 @@
 {
-   "blockList" : []
+	"blockList":
+	[
+		{
+			"uuid": "7d1e1d93-b7f8-4f4e-ab7b-c86e3566cf6c",
+			"dif": "$MOD_DATA/Objects/Textures/shipblock_dif.png",
+			"asg": "$MOD_DATA/Objects/Textures/shipblock_asg.png",
+			"nor": "$MOD_DATA/Objects/Textures/shipblock_nor.png",
+			"color": "dce3ef",
+			"tiling": 1,
+			"physicsMaterial": "Metal"
+		},
+		{
+			"uuid": "12873d2a-07b0-4ed2-a052-5d82ee30a3a2",
+			"dif": "$MOD_DATA/Objects/Textures/solarpanel_dif.png",
+			"asg": "$MOD_DATA/Objects/Textures/solarpanel_asg.png",
+			"nor": "$MOD_DATA/Objects/Textures/solarpanel_nor.png",
+			"color": "000000",
+			"tiling": 2,
+			"physicsMaterial": "Metal"
+		},
+		{
+			"uuid": "a0317c48-b404-4b77-8569-9612b7d01f52",
+			"dif": "$MOD_DATA/Objects/Textures/ins_dif.png",
+			"asg": "$MOD_DATA/Objects/Textures/ins_asg.png",
+			"nor": "$MOD_DATA/Objects/Textures/ins_nor.png",
+			"color": "000000",
+			"tiling": 8,
+			"physicsMaterial": "Plastic"
+		}
+
+	]
 }
