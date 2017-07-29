@@ -7,7 +7,7 @@
 	"12873d2a-07b0-4ed2-a052-5d82ee30a3a2":
 	{
 		"title": "Solar Panel Block",
-		"description": "Use this block to add to amazing creations or space stations!"
+		"description": "Use this block to generate power for your space stations space ships"
 	},
 	"a0317c48-b404-4b77-8569-9612b7d01f52":
 	{
@@ -17,6 +17,11 @@
 	"09c99d75-22ac-4dcf-8dba-85e30732066f":
 	{
 		"title": "Solar Panel",
-		"description": "Use this block to generate power for your space ships!"
+		"description": "Use this block to generate power for your space stations space ships!"
+	},
+	"b856bf02-08ba-4ff6-8b07-80bd37e08175":
+	{
+		"title": "Inside Space Station Block",
+		"description": "Use this block to build the insides you your space stations or space ships!"
 	}
 }
