@@ -106,8 +106,8 @@
 				]
 			},
 			"color": "808080",
-			"box": {"x": 2, "y": 1, "z": 2},
-			"rotationSet": "PropY"
+			"box": {"x": 4, "y": 1, "z": 1},
+			"rotationSet": "PropFull"
 			
 		} 
 			////////////////////SOYUZ_END////////////////////
