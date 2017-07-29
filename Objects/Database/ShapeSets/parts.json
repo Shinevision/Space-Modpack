@@ -83,7 +83,7 @@
 			},
 			"color": "808080",
 			"box": {"x": 2, "y": 1, "z": 2},
-			"rotationSet": "PropZ"
+			"rotationSet": "PropY"
 			
 		} 
 			////////////////////SOYUZ_END////////////////////

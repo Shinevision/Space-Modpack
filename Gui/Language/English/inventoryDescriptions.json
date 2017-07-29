@@ -34,24 +34,24 @@
 		"title": "Radiator Panel",
 		"description": "Use this block to cool down your space stations"
 	},
-	"60d11652-5f27-4b1c-b49c-08767c52cc5b":
+	"60d11652-5f27-4b1c-b49c-08767c52cc5b": //Dart Frog
 	{
 		"title": "Moon/Mars rock",
 		"description": "It looks like Moon or Mars rock depending on the color you paint it!"
 	},
-	"1082e31d-4c9a-476c-965f-1fa3e15f01cf":
+	"1082e31d-4c9a-476c-965f-1fa3e15f01cf": //Dart Frog
 	{
-		"title": "Rocket Ship Seat",
-		"description": "You can use this part to add to your space ships as a seat!"
+		"title": "Soyuz descent module (half)",
+		"description": "Place on Soyuz thruster 2 back to each other!"
 	},
-	"17c45d79-e806-49e3-a660-cd6e1fb33891":
+	"17c45d79-e806-49e3-a660-cd6e1fb33891": //Dart Frog
 	{
-		"title": "Rocket Ship Top",
-		"description": "You can use this part to add to your space ships as a topper!"
+		"title": "Soyuz orbital module",
+		"description": "Place at the top of Soyuz descent module!"
 	},
-	"9ac6fde9-a433-4453-a72c-bf585672105f":
+	"9ac6fde9-a433-4453-a72c-bf585672105f": //Dart Frog
 	{
-		"title": "Rocket Ship Bottom",
-		"description": "You can use this part to add to your space ships as a bottomer? If that is a word XD!"
+		"title": "Soyuz propulsion and instrumentation module",
+		"description": "Place this part first! It's a thruster so you already have forward thrust! Hide stabilizers and fly mechanics inside!"
 	}
 }
