@@ -16,7 +16,7 @@
 			"asg": "$MOD_DATA/Objects/Textures/solarpanel_asg.png",
 			"nor": "$MOD_DATA/Objects/Textures/solarpanel_nor.png",
 			"color": "000000",
-			"tiling": 2,
+			"tiling": 1,
 			"physicsMaterial": "Metal"
 		},
 		{
