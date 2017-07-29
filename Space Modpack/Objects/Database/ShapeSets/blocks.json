@@ -27,6 +27,15 @@
 			"color": "000000",
 			"tiling": 8,
 			"physicsMaterial": "Plastic"
+		},
+		{
+			"uuid": "09c99d75-22ac-4dcf-8dba-85e30732066f",
+			"dif": "$MOD_DATA/Objects/Textures/solar_panel__DIF_02.png",
+			"asg": "$MOD_DATA/Objects/Textures/asg.png",
+			"nor": "$MOD_DATA/Objects/Textures/solar_panel__NOR_02.png",
+			"color": "000000",
+			"tiling": 8,
+			"physicsMaterial": "Plastic"
 		}
 
 	]
