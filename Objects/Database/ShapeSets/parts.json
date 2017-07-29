@@ -5,7 +5,7 @@
 	
 		////////////////////SOYUZ_START////////////////////
 	{ 
-			"uuid": "1082e31d-4c9a-476c-965f-1fa3e15f01cf",
+			"uuid": "1082e31d-4c9a-476c-965f-1fa3e15f01cf", // soyuz seat
 			"renderable": {
 				"lodList": [
 					{
@@ -39,7 +39,7 @@
 	},
 	
 	{
-			"uuid": "17c45d79-e806-49e3-a660-cd6e1fb33891",
+			"uuid": "17c45d79-e806-49e3-a660-cd6e1fb33891", // soyuz top
 			"renderable": {
 				"lodList": [
 					{
@@ -63,7 +63,7 @@
 			
 		},
 		{
-			"uuid": "9ac6fde9-a433-4453-a72c-bf585672105f",
+			"uuid": "9ac6fde9-a433-4453-a72c-bf585672105f", // soyuz bottom
 			"renderable": {
 				"lodList": [
 					{
@@ -78,6 +78,30 @@
 							}
 						],
 						"mesh": "$MOD_DATA/Objects/Mesh/soyuz/soyuzbottom.obj"
+					}
+				]
+			},
+			"color": "808080",
+			"box": {"x": 2, "y": 1, "z": 2},
+			"rotationSet": "PropY"
+			
+		},
+		{
+			"uuid": "a72a6a90-1ef7-4e6b-ba7a-552b52e2c78d", // soyuz thrusters
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$MOD_DATA/Objects/Textures/Radiator_panel__DIF_01.png",
+									"$MOD_DATA/Objects/Textures/noasg_asg.png",
+									"$GAME_DATA/Textures/nonor_nor.png"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/soyuz/soyuz_Thruster_01.obj"
 					}
 				]
 			},
