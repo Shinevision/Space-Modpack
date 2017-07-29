@@ -1,27 +1,32 @@
 {
-	"7d1e1d93-b7f8-4f4e-ab7b-c86e3566cf6c":
+	"7d1e1d93-b7f8-4f4e-ab7b-c86e3566cf6c": //Izapertron
 	{
 		"title": "Space Station Block",
 		"description": "Use this block to make amazing creations or space stations!"
 	},
-	"12873d2a-07b0-4ed2-a052-5d82ee30a3a2":
+	"12873d2a-07b0-4ed2-a052-5d82ee30a3a2": //Izapertron
 	{
 		"title": "Solar Panel Block",
 		"description": "Use this block to generate power for your space stations space ships"
 	},
-	"a0317c48-b404-4b77-8569-9612b7d01f52":
+	"a0317c48-b404-4b77-8569-9612b7d01f52": //Izapertron
 	{
 		"title": "Insulation",
 		"description": "Use this block to add to amazing creations or space stations!"
 	},
-	"09c99d75-22ac-4dcf-8dba-85e30732066f":
+	"09c99d75-22ac-4dcf-8dba-85e30732066f": //shinevision
 	{
 		"title": "Solar Panel",
 		"description": "Use this block to generate power for your space stations space ships!"
 	},
-	"b856bf02-08ba-4ff6-8b07-80bd37e08175":
+	"b856bf02-08ba-4ff6-8b07-80bd37e08175": //Izapertron
 	{
 		"title": "Inside Space Station Block",
+		"description": "Use this block to build the insides you your space stations or space ships!"
+	},
+	"acc14fa2-7f72-45af-8ffc-91197c453580": //shinevision
+	{
+		"title": "#4286f4 Space stations #ff0000 Hazard #4286f4 block",
 		"description": "Use this block to build the insides you your space stations or space ships!"
 	}
 }
