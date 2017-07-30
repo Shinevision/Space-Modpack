@@ -63,5 +63,10 @@
 	{
 		"title": "Satellite Dish",
 		"description": "Use this block to send back data back to earth!"
+	},
+		"4734af69-3213-4cf6-b621-9049882308b1": //Izapertron
+	{
+		"title": "Glaxy Wallpaper Block",
+		"description": "Use this block to decorate your space station or space ship!"
 	}
 }
