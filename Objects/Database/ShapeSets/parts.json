@@ -163,7 +163,6 @@
 			"button": { }
 			
 		},
-		
 		{
 			"uuid": "b5931b43-34f0-4c54-ad5e-36f9537c8919", // gyroscope core
 			"renderable": {
@@ -187,6 +186,32 @@
 			"box": {"x": 1, "y": 1, "z": 1},
 			"rotationSet": "PropFull",
 			"density": 5000000
+			
+			
+		},
+		{
+			"uuid": "a9a208d2-e70a-496b-922c-630e1e84e194", // Satellite Dish
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$MOD_DATA/Objects/Textures/soyuztopdif.png",
+									"$MOD_DATA/Objects/Textures/noasg_asg.png",
+									"$GAME_DATA/Textures/nonor_nor.png"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/Instruments/Satellite_Dish01.obj"
+					}
+				]
+			},
+			"color": "464646",
+			"box": {"x": 2, "y": 3, "z": 2},
+			"rotationSet": "PropFull",
+			"density": 250
 			
 			
 		}

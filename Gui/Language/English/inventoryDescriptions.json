@@ -58,5 +58,10 @@
 	{
 		"title": "Force Field Block",
 		"description": "100% invisible! Has collision of 1 block. Can be found using connect tool (it's a button)"
+	},
+	"a9a208d2-e70a-496b-922c-630e1e84e194": //shinevision
+	{
+		"title": "Satellite Dish",
+		"description": "Use this block to send back data back to earth!"
 	}
 }
