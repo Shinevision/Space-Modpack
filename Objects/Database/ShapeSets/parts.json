@@ -134,9 +134,33 @@
 			"cylinder": { "diameter": 10, "depth": 45, "axis": "Y" },
 			"rotationSet": "PropFull"
 			
-		},  
-			////////////////////SOYUZ_END////////////////////
+		},
+		{
+			"uuid": "148fec95-471e-4ed0-9aad-ae853426b58a", // soyuz Top
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$MOD_DATA/Objects/Textures/soyuzrocketdif.png",
+									"$MOD_DATA/Objects/Textures/noasg_asg.png",
+									"$GAME_DATA/Textures/nonor_nor.png"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/soyuz/soyuz_Thruster_Top.obj"
+					}
+				]
+			},
+			"color": "808080",
+			//"box": {"x": 15, "y": 20, "z": 15},
+			"cylinder": { "diameter": 10, "depth": 45, "axis": "Y" },
+			"rotationSet": "PropFull"
 			
+		},
+			////////////////////SOYUZ_END////////////////////	
 		{
 			"uuid": "5ac3e614-6205-49fa-afa2-da176485f4b1", // forcefield block
 			"renderable": {
