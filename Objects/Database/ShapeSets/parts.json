@@ -214,7 +214,38 @@
 			"density": 250
 			
 			
-		}
+		},
+			  {
+            "uuid": "6df17e2a-5c69-473c-b12d-00f184c2e1d1", // Sputnik
+            "renderable": {
+                "lodList": [
+                    {
+                        "subMeshList" : [
+                            {
+                                "textureList": [
+                                    "$MOD_DATA/Objects/Textures/sputnik1dif.png",
+                                    "$MOD_DATA/Objects/Textures/sputnik1asg.png",
+                                    "$GAME_DATA/Textures/nonor_nor.png"
+                                ],
+                                "material": "DifAsgNor"
+                            },
+                            {
+                                "textureList": [
+                                    "$MOD_DATA/Objects/Textures/sputnik1dif.png",
+                                    "$MOD_DATA/Objects/Textures/sputnik1asg.png",
+                                    "$GAME_DATA/Textures/nonor_nor.png"
+                                ],
+                                "material": "DifAsgNor"
+                            }
+                        ],
+                        "mesh": "$MOD_DATA/Objects/Mesh/spacecrafts/sputnik1.obj"
+                    }
+                ]
+            },
+            "color": "808080",
+            "box": {"x": 4, "y": 4, "z": 4},
+            "rotationSet": "PropFull"
+        }
    
    
    
