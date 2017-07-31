@@ -66,7 +66,22 @@
 	},
 		"4734af69-3213-4cf6-b621-9049882308b1": //Izapertron
 	{
-		"title": "Glaxy Wallpaper Block",
+		"title": "Galaxy Wallpaper Block",
 		"description": "Use this block to decorate your space station or space ship!"
+	},
+	"6df17e2a-5c69-473c-b12d-00f184c2e1d1": //Dart Frog
+	{
+		"title": "Sputnik Satellite",
+		"description": "First artifficial satellite!"
+	},
+	"b5931b43-34f0-4c54-ad5e-36f9537c8919": //Dart Frog
+	{
+		"title": "Gyroscope core",
+		"description": "!!!WARNING!!! Very heavy! \n\n\nEight of these can make it underground! Used to move to center of mass"
+	},
+	"148fec95-471e-4ed0-9aad-ae853426b69a": //Dart Frog & Shinevision
+	{
+		"title": "Rocket Body",
+		"description": "Used to place things into orbit"
 	}
 }
