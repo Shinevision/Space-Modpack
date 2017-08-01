@@ -269,8 +269,33 @@
             "color": "707070",
             "box": {"x": 4, "y": 4, "z": 4},
             "rotationSet": "PropFull"
-        }
-   
+        },
+		{
+		"uuid": "abaaf3ec-102c-4f81-88cf-31716d1a1f9d", // Space Wheel
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$MOD_DATA/Objects/Textures/nodif_dif.png",
+									"$MOD_DATA/Objects/Textures/noasg_asg.png",
+									"$MOD_DATA/Objects/Textures/nonor_nor.png"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/spacewheel.obj"
+					}
+				]
+			},
+			"color": "eeeeee",
+			"cylinder": { "diameter": 5, "depth": 1, "axis": "Z" },
+			"phsicsMateial" : "Metal",
+			"sticky" :"-Z+Z",
+			"rotationSet": "PropZ",
+			"density": 1250
+		}
    
    
    

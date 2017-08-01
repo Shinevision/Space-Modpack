@@ -83,5 +83,10 @@
 	{
 		"title": "Rocket Body",
 		"description": "Used to place things into orbit"
+	},
+	"abaaf3ec-102c-4f81-88cf-31716d1a1f9d": //Izapertron
+	{
+		"title": "Space Wheel",
+		"description": "Use this block to make space rovers or space cars!"
 	}
 }
