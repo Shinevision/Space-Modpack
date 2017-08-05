@@ -1,6 +1,6 @@
 # Space-Modpack
 Space Modpack for scrap mechanic
 
-Post some example images here of what it looks like ect
+This is a mod all about SPAAAAAACE!
 
-Explain what the mod is and what it has to offer ect.
+it contains all sorts of space items like the "soyuz" space craft!
