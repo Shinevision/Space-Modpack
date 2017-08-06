@@ -295,8 +295,41 @@
 			"sticky" :"-Z+Z",
 			"rotationSet": "PropZ",
 			"density": 1250
+		},
+		{
+			"uuid": "56640b05-c0bc-4b3a-93b0-4c5d74b46445", // MAYAK
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$MOD_DATA/Objects/Textures/sputnik1dif.png",
+									"$MOD_DATA/Objects/Textures/sputnik1asg.png",
+									"$GAME_DATA/Textures/nonor_nor.png"
+								],
+								"material": "PoseAnimDifAsgNor"
+							},
+							{
+								"textureList": [
+									"$MOD_DATA/Objects/Textures/sputnik1dif.png",
+									"$MOD_DATA/Objects/Textures/sputnik1asg.png",
+									"$GAME_DATA/Textures/nonor_nor.png"
+								],
+								"material": "PoseAnimDifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/spacecrafts/MAYAK_expanded.obj",
+						"pose0": "$MOD_DATA/Objects/Mesh/spacecrafts/MAYAK_expanded.obj"
+					}
+				]
+			},
+			"color": "E7E7E7",
+			"box": {"x": 1, "y": 2.75, "z": 1},
+			"rotationSet": "PropFull",
+			"lever": { }
+			
 		}
-   
    
    
    
