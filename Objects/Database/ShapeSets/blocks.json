@@ -4,7 +4,7 @@
 		{
 			"uuid": "7d1e1d93-b7f8-4f4e-ab7b-c86e3566cf6c", //Ship block
 			"dif": "$MOD_DATA/Objects/Textures/shipblock_dif.png",
-			"asg": "$MOD_DATA/Objects/Textures/shipblock_asg.png",
+			"asg": "$MOD_DATA/Objects/Textures/noasg_asg.png",
 			"nor": "$MOD_DATA/Objects/Textures/shipblock_nor.png",
 			"color": "dce3ef",
 			"tiling": 1,
@@ -22,7 +22,7 @@
 		{
 			"uuid": "a0317c48-b404-4b77-8569-9612b7d01f52", //Inulation block
 			"dif": "$MOD_DATA/Objects/Textures/ins_dif.png",
-			"asg": "$MOD_DATA/Objects/Textures/ins_asg.png",
+			"asg": "$MOD_DATA/Objects/Textures/noasg_asg.png",
 			"nor": "$MOD_DATA/Objects/Textures/nonor_nor.png",
 			"color": "000000",
 			"tiling": 8,
