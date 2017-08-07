@@ -311,7 +311,7 @@
 								"material": "PoseAnimDifAsgNor"
 							}
 						],
-						"mesh": "$MOD_DATA/Objects/Mesh/spacecrafts/MAYAK_expanded.obj",
+						"mesh": "$MOD_DATA/Objects/Mesh/spacecrafts/MAYAK.obj",
 						"pose0": "$MOD_DATA/Objects/Mesh/spacecrafts/MAYAK_expanded.obj"
 					}
 				]
@@ -322,21 +322,6 @@
 			"lever": {}
 			
 			
-		}
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
+		} 
    ]
 }
