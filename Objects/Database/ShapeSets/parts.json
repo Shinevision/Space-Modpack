@@ -14,7 +14,7 @@
 								"textureList": [
 									"$MOD_DATA/Objects/Textures/soyuzseat1dif.png",
 									"$MOD_DATA/Objects/Textures/soyuzseat1asg.png",
-									"$GAME_DATA/Textures/nonor_nor.png"
+									"$MOD_DATA/Objects/Textures/nonor_nor.png"
 								],
 								"material": "DifAsgNor"
 							}
@@ -48,7 +48,7 @@
 								"textureList": [
 									"$MOD_DATA/Objects/Textures/soyuztopdif.png",
 									"$MOD_DATA/Objects/Textures/noasg_asg.png",
-									"$GAME_DATA/Textures/nonor_nor.png"
+									"$MOD_DATA/Objects/Textures/nonor_nor.png"
 								],
 								"material": "DifAsgNor"
 							}
@@ -72,7 +72,7 @@
 								"textureList": [
 									"$MOD_DATA/Objects/Textures/soyuzbottom.png",
 									"$MOD_DATA/Objects/Textures/noasg_asg.png",
-									"$GAME_DATA/Textures/nonor_nor.png"
+									"$MOD_DATA/Objects/Textures/nonor_nor.png"
 								],
 								"material": "DifAsgNor"
 							}
@@ -96,7 +96,7 @@
 								"textureList": [
 									"$MOD_DATA/Objects/Textures/Radiator_panel__DIF_01.png",
 									"$MOD_DATA/Objects/Textures/noasg_asg.png",
-									"$GAME_DATA/Textures/nonor_nor.png"
+									"$MOD_DATA/Objects/Textures/nonor_nor.png"
 								],
 								"material": "DifAsgNor"
 							}
@@ -120,7 +120,7 @@
 								"textureList": [
 									"$MOD_DATA/Objects/Textures/soyuzrocketdif.png",
 									"$MOD_DATA/Objects/Textures/noasg_asg.png",
-									"$GAME_DATA/Textures/nonor_nor.png"
+									"$MOD_DATA/Objects/Textures/nonor_nor.png"
 								],
 								"material": "DifAsgNor"
 							}
@@ -145,7 +145,7 @@
 								"textureList": [
 									"$MOD_DATA/Objects/Textures/soyuzrocketdif.png",
 									"$MOD_DATA/Objects/Textures/noasg_asg.png",
-									"$GAME_DATA/Textures/nonor_nor.png"
+									"$MOD_DATA/Objects/Textures/nonor_nor.png"
 								],
 								"material": "DifAsgNor"
 							}
@@ -171,7 +171,7 @@
 								"textureList": [
 									"$MOD_DATA/Objects/Textures/noasg_asg.png",
 									"$MOD_DATA/Objects/Textures/noasg_asg.png",
-									"$GAME_DATA/Textures/nonor_nor.png"
+									"$MOD_DATA/Objects/Textures/nonor_nor.png"
 								],
 								"material": "PoseAnimDifAsgNor"
 							}
@@ -197,7 +197,7 @@
 								"textureList": [
 									"$MOD_DATA/Objects/Textures/gyroscopecoredif.png",
 									"$MOD_DATA/Objects/Textures/gyroscopecoreasg.png",
-									"$GAME_DATA/Textures/nonor_nor.png"
+									"$MOD_DATA/Objects/Textures/nonor_nor.png"
 								],
 								"material": "DifAsgNor"
 							}
@@ -223,7 +223,7 @@
 								"textureList": [
 									"$MOD_DATA/Objects/Textures/soyuztopdif.png",
 									"$MOD_DATA/Objects/Textures/noasg_asg.png",
-									"$GAME_DATA/Textures/nonor_nor.png"
+									"$MOD_DATA/Objects/Textures/nonor_nor.png"
 								],
 								"material": "DifAsgNor"
 							}
@@ -249,7 +249,7 @@
                                 "textureList": [
                                     "$MOD_DATA/Objects/Textures/sputnik1dif.png",
                                     "$MOD_DATA/Objects/Textures/sputnik1asg.png",
-                                    "$GAME_DATA/Textures/nonor_nor.png"
+                                    "$MOD_DATA/Objects/Textures/nonor_nor.png"
                                 ],
                                 "material": "DifAsgNor"
                             },
@@ -257,7 +257,7 @@
                                 "textureList": [
                                     "$MOD_DATA/Objects/Textures/sputnik1dif.png",
                                     "$MOD_DATA/Objects/Textures/sputnik1asg.png",
-                                    "$GAME_DATA/Textures/nonor_nor.png"
+                                    "$MOD_DATA/Objects/Textures/nonor_nor.png"
                                 ],
                                 "material": "DifAsgNor"
                             }
@@ -306,7 +306,7 @@
 								"textureList": [
 									"$MOD_DATA/Objects/Textures/sputnik1dif.png",
 									"$MOD_DATA/Objects/Textures/sputnik1asg.png",
-									"$GAME_DATA/Textures/nonor_nor.png"
+									"$MOD_DATA/Objects/Textures/nonor_nor.png"
 								],
 								"material": "PoseAnimDifAsgNor"
 							}
@@ -322,6 +322,30 @@
 			"lever": {}
 			
 			
-		} 
+		} ,
+		{
+			"uuid": "1d164738-5850-4e5a-a05e-6be6e96804a7", //small truss
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_dif.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/truss_small.obj"
+					}
+				]
+			},
+			"color": "808080",
+			"box": {"x": 1, "y": 2, "z": 1},
+			"rotationSet": "PropFull"
+			
+		}
    ]
 }

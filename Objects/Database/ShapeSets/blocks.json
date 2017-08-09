@@ -68,7 +68,7 @@
 			"uuid": "60d11652-5f27-4b1c-b49c-08767c52cc5b", //Moon block
 			"dif": "$MOD_DATA/Objects/Textures/moonrock.png",
 			"asg": "$MOD_DATA/Objects/Textures/noasg_asg.png",
-			"nor": "$GAME_DATA/Textures/nonor_nor.png",
+			"nor": "$MOD_DATA/Objects/Textures/nonor_nor.png",
 			"color": "C0C0C0",
 			"tiling": 8,
 			"phisicsMaterial": "Rock"
