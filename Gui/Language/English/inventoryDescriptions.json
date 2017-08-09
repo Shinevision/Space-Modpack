@@ -88,5 +88,10 @@
 	{
 		"title": "Space Wheel",
 		"description": "Use this block to make space rovers or space cars!"
+	},
+	"1d164738-5850-4e5a-a05e-6be6e96804a7":
+	{
+	"title": "Small truss",
+	"description": "1x2x1 truss"
 	}
 }
