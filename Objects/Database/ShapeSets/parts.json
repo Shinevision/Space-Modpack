@@ -323,6 +323,8 @@
 			
 			
 		},
+		
+		///////////////////////TRUSS/////////////////////////////
 		{
 			"uuid": "1d164738-5850-4e5a-a05e-6be6e96804a7", //small truss
 			"renderable": {
@@ -346,6 +348,249 @@
 			"box": {"x": 1, "y": 2, "z": 1},
 			"rotationSet": "PropFull"
 			
+		},
+		{
+			"uuid": "28e929ca-ff07-411c-8b4f-e2664c177da4", //medium truss
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_dif.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/truss_medium.obj"
+					}
+				]
+			},
+			"color": "808080",
+			"box": {"x": 2, "y": 4, "z": 2},
+			"rotationSet": "PropFull"
+			
+		},
+		{
+			"uuid": "b972ccd2-ddb3-4120-b6fc-2b0b680bb2e1", //large truss
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_dif.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/truss_large.obj"
+					}
+				]
+			},
+			"color": "808080",
+			"box": {"x": 3, "y": 6, "z": 3},
+			"rotationSet": "PropFull"
+			
+		},
+			{
+			"uuid": "1251a7e3-cad3-49dd-993e-7b9cd4ba83f0", //large to medium truss
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_dif.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/truss_largemedium.obj"
+					}
+				]
+			},
+			"color": "808080",
+			"box": {"x": 3, "y": 2, "z": 3},
+			"rotationSet": "PropFull"
+			
+		},
+	
+			{
+			"uuid": "38e6f69a-d8b9-4715-85f8-75f3645cbe1f", //small to medium truss
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_dif.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/truss_smallmedium.obj"
+					}
+				]
+			},
+			"color": "808080",
+			"box": {"x": 2, "y": 1, "z": 2},
+			"rotationSet": "PropFull"
+			
+		},
+				{
+			"uuid": "16181fcf-ef84-4039-af59-dadec5dc3e4a", //small truss hub
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_dif.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
+								],
+								"material": "DifAsgNor"
+							},
+							{
+								"textureList": [
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_dif.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
+								],
+								"material": "DifAsgNor"
+							},
+							{
+								"textureList": [
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_dif.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/truss_hub_small.obj"
+					}
+				]
+			},
+			"color": "808080",
+			"box": {"x": 1, "y": 1, "z": 1},
+			"rotationSet": "PropFull"
+			
+		},
+				{
+			"uuid": "496552de-0413-452b-adca-3541c998e5a0", //medium truss hub
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_dif.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
+								],
+								"material": "DifAsgNor"
+							},
+							{
+								"textureList": [
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_dif.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
+								],
+								"material": "DifAsgNor"
+							},
+							{
+								"textureList": [
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_dif.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/truss_hub_medium.obj"
+					}
+				]
+			},
+			"color": "808080",
+			"box": {"x": 2, "y": 2, "z": 2},
+			"rotationSet": "PropFull"
+			
+		},
+				{
+			"uuid": "57640b05-c0bc-4b3a-93b0-4c5d74b46445", //large truss hub
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_dif.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
+								],
+								"material": "DifAsgNor"
+							},
+							{
+								"textureList": [
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_dif.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
+								],
+								"material": "DifAsgNor"
+							},
+							{
+								"textureList": [
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_dif.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/truss_hub_large.obj"
+					}
+				]
+			},
+			"color": "808080",
+			"box": {"x": 3, "y": 3, "z": 3},
+			"rotationSet": "PropFull"
+			
+		},
+		/////////////////////truss end///////////////////////
+				{
+			"uuid": "1b13a810-13e8-42e9-8dd1-e3ebe716368f", //docking module
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$MOD_DATA/Objects/Textures/soyuztopdif.png",
+									"$MOD_DATA/Objects/Textures/noasg_asg.png",
+									"$MOD_DATA/Objects/Textures/nonor_nor.png"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/Instruments/docking_module.obj"
+					}
+				]
+			},
+			"color": "808080",
+			"box": {"x": 4, "y": 1, "z": 4},
+			"rotationSet": "PropFull"
+			
 		}
+		
    ]
 }

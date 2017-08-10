@@ -89,9 +89,65 @@
 		"title": "Space Wheel",
 		"description": "Use this block to make space rovers or space cars!"
 	},
+	//Dart Frog start
 	"1d164738-5850-4e5a-a05e-6be6e96804a7":
 	{
 	"title": "Small truss",
 	"description": "1x2x1 truss"
+	},
+	"28e929ca-ff07-411c-8b4f-e2664c177da4":
+	{
+	"title": ""
+	"description": ""
+	
+	},
+	"":
+	{
+	"title": "Medium truss"
+	"description": "2x4x2 truss"
+	
+	},
+	"b972ccd2-ddb3-4120-b6fc-2b0b680bb2e1":
+	{
+	"title": "Large truss"
+	"description": "3x6x3 truss"
+	
+	},
+	"1251a7e3-cad3-49dd-993e-7b9cd4ba83f0":
+	{
+	"title": "Large - medium truss connector"
+	"description": "Use to connect large truss with medium truss"
+	
+	},
+	"38e6f69a-d8b9-4715-85f8-75f3645cbe1f":
+	{
+	"title": "Medium - small truss connector"
+	"description": "Use to connect large truss with medium truss"
+	
+	},
+	"16181fcf-ef84-4039-af59-dadec5dc3e4a":
+	{
+	"title": "Small truss hub"
+	"description": "All directions 1x1x1 truss"
+	
+	},
+	"496552de-0413-452b-adca-3541c998e5a0":
+	{
+	"title": "Medium truss hub"
+	"description": "All directions 2x2x2 truss"
+	
+	},
+	"57640b05-c0bc-4b3a-93b0-4c5d74b46445":
+	{
+	"title": "Large truss hub"
+	"description": "All directions 3x3x3 truss"
+	
+	},
+	"1b13a810-13e8-42e9-8dd1-e3ebe716368f":
+	{
+	"title": "Docking module"
+	"description": "Use to dock your spaceship to space station"
+	
 	}
+	//Dart Frog end
 }
