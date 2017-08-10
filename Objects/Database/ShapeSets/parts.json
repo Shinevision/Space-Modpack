@@ -309,10 +309,18 @@
 									"$MOD_DATA/Objects/Textures/nonor_nor.png"
 								],
 								"material": "PoseAnimDifAsgNor"
+							},
+							{
+								"textureList": [
+									"$MOD_DATA/Objects/Textures/sputnik1dif.png",
+									"$MOD_DATA/Objects/Textures/sputnik1asg.png",
+									"$MOD_DATA/Objects/Textures/nonor_nor.png"
+								],
+								"material": "PoseAnimDifAsgNor"
 							}
 						],
-						"mesh": "$MOD_DATA/Objects/Mesh/spacecrafts/MAYAK_expanded2.obj",
-						"pose0": "$MOD_DATA/Objects/Mesh/spacecrafts/MAYAK2.obj"
+						"mesh": "$MOD_DATA/Objects/Mesh/spacecrafts/MAYAK2.obj",
+						"pose0": "$MOD_DATA/Objects/Mesh/spacecrafts/MAYAK_expanded2.obj"
 					}
 				]
 			},

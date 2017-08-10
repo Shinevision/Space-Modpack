@@ -96,12 +96,7 @@
 	"description": "1x2x1 truss"
 	},
 	"28e929ca-ff07-411c-8b4f-e2664c177da4":
-	{
-	"title": ""
-	"description": ""
 	
-	},
-	"":
 	{
 	"title": "Medium truss"
 	"description": "2x4x2 truss"
@@ -148,6 +143,11 @@
 	"title": "Docking module"
 	"description": "Use to dock your spaceship to space station"
 	
+	},
+	"56640b05-c0bc-4b3a-93b0-4c5d74b46445":
+	{
+	"title": "MAYAK satellite",
+	"description": "The brightest ever satellite for now! It may be even brighter than Venus! Click to expand the pyramid! 1:1 SCALE!!!"
 	}
 	//Dart Frog end
 }
