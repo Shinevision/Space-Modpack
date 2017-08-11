@@ -598,7 +598,32 @@
 			"box": {"x": 4, "y": 1, "z": 4},
 			"rotationSet": "PropFull"
 			
+		},
+			{
+			"uuid": "87f41332-31f8-47dc-9733-43edd993e596", // maneouvering thruster
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$MOD_DATA/Objects/Textures/soyuzrocketdif.png",
+									"$MOD_DATA/Objects/Textures/noasg_asg.png",
+									"$MOD_DATA/Objects/Textures/nonor_nor.png"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/Instruments/manouvering_thruster.obj"
+					}
+				]
+			},
+			"color": "808080",
+			"box": {"x": 1, "y": 1, "z": 1},
+			"rotationSet": "PropFull"
+			
 		}
+		
 		
    ]
 }
