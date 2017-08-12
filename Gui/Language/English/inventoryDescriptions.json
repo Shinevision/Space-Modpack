@@ -92,66 +92,76 @@
 	//Dart Frog start
 	"1d164738-5850-4e5a-a05e-6be6e96804a7":
 	{
-	"title": "Small truss",
+	"title": "Small Truss",
 	"description": "1x2x1 truss"
 	},
 	"28e929ca-ff07-411c-8b4f-e2664c177da4":
 	
 	{
-	"title": "Medium truss",
+	"title": "Medium Truss",
 	"description": "2x4x2 truss"
 	
 	},
 	"b972ccd2-ddb3-4120-b6fc-2b0b680bb2e1":
 	{
-	"title": "Large truss",
+	"title": "Large Truss",
 	"description": "3x6x3 truss"
 	
 	},
 	"1251a7e3-cad3-49dd-993e-7b9cd4ba83f0":
 	{
-	"title": "Large - medium truss connector",
+	"title": "Large - Medium Truss Connector",
 	"description": "Use to connect large truss with medium truss"
 	
 	},
 	"38e6f69a-d8b9-4715-85f8-75f3645cbe1f":
 	{
-	"title": "Medium - small truss connector",
+	"title": "Medium - Small Truss Connector",
 	"description": "Use to connect small truss with medium truss"
 	
 	},
 	"16181fcf-ef84-4039-af59-dadec5dc3e4a":
 	{
-	"title": "Small truss hub",
+	"title": "Small Truss Hub",
 	"description": "All directions 1x1x1 truss"
 	
 	},
 	"496552de-0413-452b-adca-3541c998e5a0":
 	{
-	"title": "Medium truss hub",
+	"title": "Medium Truss Hub",
 	"description": "All directions 2x2x2 truss"
 	
 	},
 	"57640b05-c0bc-4b3a-93b0-4c5d74b46445":
 	{
-	"title": "Large truss hub",
+	"title": "Large Truss Hub",
 	"description": "All directions 3x3x3 truss"
 	},
 	"1b13a810-13e8-42e9-8dd1-e3ebe716368f":
 	{
-	"title": "Docking module",
+	"title": "Docking Module",
 	"description": "Use to dock your spaceship to space station"
 	
 	},
 	"56640b05-c0bc-4b3a-93b0-4c5d74b46445":
 	{
-	"title": "MAYAK satellite",
+	"title": "MAYAK Satellite",
 	"description": "The brightest ever satellite for now! It may be even brighter than Venus! Click to expand the pyramid! 1:1 SCALE!!!"
 	},
 	"87f41332-31f8-47dc-9733-43edd993e596":
 	{
-	"title": "Manouvering thruster",
+	"title": "Manouvering Thruster",
 	"description": "Used to manouver your vehicle! Has same power as normal thruster!"
-	}
+	},
 	//Dart Frog end
+	"7b8a28c0-ca47-406c-a2c2-92a2e7505413":
+	{
+	"title": "Fabric Block",
+	"description": "Use this block to decorate your spaceship or spacestations!"
+	}
+	"3ddea6a1-97ad-44e5-827c-fa47ee044723":
+	{
+	"title": "Star Block",
+	"description": "Use this block to decorate your spaceship or spacestations!"
+	}
 }

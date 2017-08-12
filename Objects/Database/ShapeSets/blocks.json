@@ -81,6 +81,24 @@
 			"color": "000000",
 			"tiling": 8,
 			"physicsMaterial": "Plastic"
-		}		
+		},	
+		{
+			"uuid": "7b8a28c0-ca47-406c-a2c2-92a2e7505413", //Fabric block
+			"dif": "$MOD_DATA/Objects/Textures/Fabric_Block.png",
+			"asg": "$MOD_DATA/Objects/Textures/noasg_asg.png",
+			"nor": "$MOD_DATA/Objects/Textures/nonor_nor.png",
+			"color": "000000",
+			"tiling": 2,
+			"physicsMaterial": "Plastic"
+		},
+		{
+			"uuid": "3ddea6a1-97ad-44e5-827c-fa47ee044723", //Star block
+			"dif": "$MOD_DATA/Objects/Textures/Star_Block.png",
+			"asg": "$MOD_DATA/Objects/Textures/noasg_asg.png",
+			"nor": "$MOD_DATA/Objects/Textures/nonor_nor.png",
+			"color": "000000",
+			"tiling": 8,
+			"physicsMaterial": "Plastic"
+		}
 	]
 }
