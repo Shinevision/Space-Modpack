@@ -323,6 +323,32 @@
 			"density": 1250
 		},
 		{
+		"uuid": "a785baa0-eda5-4d32-a7b2-63621ab61c19", // Space Wheel GIANT
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$MOD_DATA/Objects/Textures/nodif_dif.png",
+									"$MOD_DATA/Objects/Textures/noasg_asg.png",
+									"$MOD_DATA/Objects/Textures/nonor_nor.png"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/spacewheel(G).obj"
+					}
+				]
+			},
+			"color": "eeeeee",
+			"cylinder": { "diameter": 19, "depth": 10, "axis": "Z" },
+			"phsicsMateial" : "Metal",
+			"sticky" :"-Z+Z",
+			"rotationSet": "PropZ",
+			"density": 1250
+		},
+		{
 			"uuid": "56640b05-c0bc-4b3a-93b0-4c5d74b46445", // MAYAK
 			"renderable": {
 				"lodList": [

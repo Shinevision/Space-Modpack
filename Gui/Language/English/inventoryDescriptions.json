@@ -87,12 +87,17 @@
 	"abaaf3ec-102c-4f81-88cf-31716d1a1f9d": //Izapertron
 	{
 		"title": "Space Wheel Large",
-		"description": "Use this block to make space rovers or space cars! This is the same size as the Large Wheel in game"
+		"description": "Use this block to make space rovers or space cars! This is the same size as the Large Wheel in game! \n\n Credit:NASA"
 	},
 	"8c08a5a2-f5b2-4c4a-86df-9b7a955d4622": //Izapertron
 	{
 		"title": "Space Wheel Small",
-		"description": "Use this block to make space rovers or space cars! This is the same size as the Small Wheel in game"
+		"description": "Use this block to make space rovers or space cars! This is the same size as the Small Wheel in game! \n\n Credit:NASA"
+	},
+	"a785baa0-eda5-4d32-a7b2-63621ab61c19": //Izapertron
+	{
+		"title": "Space Wheel Giant",
+		"description": "Use this block to make space rovers or space cars! This is a GIANT wheel! \n\n Credit:NASA"
 	},
 	//Dart Frog start
 	"1d164738-5850-4e5a-a05e-6be6e96804a7":
@@ -161,12 +166,12 @@
 	//Dart Frog end
 	"7b8a28c0-ca47-406c-a2c2-92a2e7505413":
 	{
-	"title": "Fabric Block",
+	"title": "Fabric Block", //Izapertron
 	"description": "Use this block to decorate your spaceship or spacestations!"
 	},
 	"3ddea6a1-97ad-44e5-827c-fa47ee044723":
 	{
-	"title": "Star Block",
+	"title": "Star Block", //Izapertron
 	"description": "Use this block to decorate your spaceship or spacestations!"
 	}
 }
