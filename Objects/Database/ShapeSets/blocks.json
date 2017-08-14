@@ -47,15 +47,6 @@
 			"physicsMaterial": "Plastic"
 		},
 		{
-			"uuid": "b856bf02-08ba-4ff6-8b07-80bd37e08175", //Inside space station block
-			"dif": "$MOD_DATA/Objects/Textures/Inside_dif.png",
-			"asg": "$MOD_DATA/Objects/Textures/noasg_asg.png",
-			"nor": "$MOD_DATA/Objects/Textures/nonor_nor.png",
-			"color": "000000",
-			"tiling": 8,
-			"physicsMaterial": "Plastic"
-		},
-		{
 			"uuid": "200487e7-97eb-49af-980c-6342fd39eca6", //Radiator panel
 			"dif": "$MOD_DATA/Objects/Textures/Radiator_panel__DIF_01.png",
 			"asg": "$MOD_DATA/Objects/Textures/noasg_asg.png",

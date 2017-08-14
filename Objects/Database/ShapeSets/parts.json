@@ -271,7 +271,7 @@
             "rotationSet": "PropFull"
         },
 		{
-		"uuid": "abaaf3ec-102c-4f81-88cf-31716d1a1f9d", // Space Wheel
+		"uuid": "abaaf3ec-102c-4f81-88cf-31716d1a1f9d", // Space Wheel LARGE
 			"renderable": {
 				"lodList": [
 					{
@@ -285,12 +285,64 @@
 								"material": "DifAsgNor"
 							}
 						],
-						"mesh": "$MOD_DATA/Objects/Mesh/spacewheel.obj"
+						"mesh": "$MOD_DATA/Objects/Mesh/spacewheel(L).obj"
 					}
 				]
 			},
 			"color": "eeeeee",
-			"cylinder": { "diameter": 5, "depth": 1, "axis": "Z" },
+			"cylinder": { "diameter": 5, "depth": 2, "axis": "Z" },
+			"phsicsMateial" : "Metal",
+			"sticky" :"-Z+Z",
+			"rotationSet": "PropZ",
+			"density": 1250
+		},
+		{
+		"uuid": "8c08a5a2-f5b2-4c4a-86df-9b7a955d4622", // Space Wheel SMALL
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$MOD_DATA/Objects/Textures/nodif_dif.png",
+									"$MOD_DATA/Objects/Textures/noasg_asg.png",
+									"$MOD_DATA/Objects/Textures/nonor_nor.png"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/spacewheel(S).obj"
+					}
+				]
+			},
+			"color": "eeeeee",
+			"cylinder": { "diameter": 3, "depth": 1, "axis": "Z" },
+			"phsicsMateial" : "Metal",
+			"sticky" :"-Z+Z",
+			"rotationSet": "PropZ",
+			"density": 1250
+		},
+		{
+		"uuid": "a785baa0-eda5-4d32-a7b2-63621ab61c19", // Space Wheel GIANT
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$MOD_DATA/Objects/Textures/nodif_dif.png",
+									"$MOD_DATA/Objects/Textures/noasg_asg.png",
+									"$MOD_DATA/Objects/Textures/nonor_nor.png"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/spacewheel(G).obj"
+					}
+				]
+			},
+			"color": "eeeeee",
+			"cylinder": { "diameter": 19, "depth": 10, "axis": "Z" },
 			"phsicsMateial" : "Metal",
 			"sticky" :"-Z+Z",
 			"rotationSet": "PropZ",
@@ -622,7 +674,40 @@
 			"box": {"x": 1, "y": 1, "z": 1},
 			"rotationSet": "PropFull"
 			
-		}
+		},
+			{ 
+			"uuid": "12f2a622-d183-4ff5-bbfd-278f0dcbc602", // hypertube
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$MOD_DATA/Objects/Textures/soyuzseat1dif.png",
+									"$MOD_DATA/Objects/Textures/soyuzseat1asg.png",
+									"$MOD_DATA/Objects/Textures/nonor_nor.png"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/hypertube.obj"
+					}
+				]
+			},
+			"color": "808080",
+			"box": {"x": 5, "y": 3380, "z": 5},
+			"rotationSet": "PropY",
+			"seat": {
+				"bones": [
+					{ "name": "Hips", "offset": { "x": 0.0, "y": 1690.0, "z": 0.0 } },
+					{ "name": "LeftForeArm", "offset": { "x": 0.0, "y": 1690.0, "z": 0.0 }, "freeRotation": true },
+					{ "name": "RightForeArm", "offset": { "x": 0.0, "y": 1690.0, "z": 0.0 }, "freeRotation": true }
+				],
+				"ragdollFile": "$MOD_DATA/Character/invisseat_ragdoll.json",
+				"enterAudio": "Seat seated",
+				"exitAudio": "Seat unseated"
+						}
+	}
 		
 		
    ]
