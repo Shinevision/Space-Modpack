@@ -683,8 +683,8 @@
 						"subMeshList" : [
 							{
 								"textureList": [
-									"$MOD_DATA/Objects/Textures/soyuzseat1dif.png",
-									"$MOD_DATA/Objects/Textures/soyuzseat1asg.png",
+									"$MOD_DATA/Objects/Textures/nodif_dif.png",
+									"$MOD_DATA/Objects/Textures/noasg_asg.png",
 									"$MOD_DATA/Objects/Textures/nonor_nor.png"
 								],
 								"material": "DifAsgNor"
@@ -694,18 +694,42 @@
 					}
 				]
 			},
+			"rotationSet": "PropYZ",
 			"color": "808080",
-			"box": {"x": 5, "y": 3380, "z": 5},
-			"rotationSet": "PropY",
 			"seat": {
 				"bones": [
-					{ "name": "Hips", "offset": { "x": 0.0, "y": 1690.0, "z": 0.0 } },
-					{ "name": "LeftForeArm", "offset": { "x": 0.0, "y": 1690.0, "z": 0.0 }, "freeRotation": true },
-					{ "name": "RightForeArm", "offset": { "x": 0.0, "y": 1690.0, "z": 0.0 }, "freeRotation": true }
+					{ "name": "Hips", "offset": { "x": 0.0, "y": 1.55, "z": -0.15 } },
+					{ "name": "LeftForeArm", "offset": { "x": 2.7, "y": 2.7, "z": 0.3 }, "freeRotation": true },
+					{ "name": "RightForeArm", "offset": { "x": -2.7, "y": 2.7, "z": 0.2 }, "freeRotation": true }
 				],
-				"ragdollFile": "$MOD_DATA/Character/invisseat_ragdoll.json",
+				"ragdollPose": "invisseat_ragdoll",
 				"enterAudio": "Seat seated",
 				"exitAudio": "Seat unseated"
+			},
+			"hull": { 
+				"x": 4, "y": 8000, "z": 4,
+				"margin": 0.01,
+				"pointList": [
+					{ "x": 0.0, "y": -1.0, "z": 1.0 },
+					{ "x": 0.71, "y": -1.0, "z": 0.71 },
+					{ "x": 1.0, "y": -1.0, "z": 0.0 },
+					{ "x": 0.71, "y": -1.0, "z": -0.71 },
+					{ "x": 0.0, "y": -1.0, "z": -1.0 },
+					{ "x": -0.71, "y": -1.0, "z": -0.71 },
+					{ "x": -1.0, "y": -1.0, "z": 0.0 },
+					{ "x": -0.71, "y": -1.0, "z": 0.71 },
+					{ "x": 0.0, "y": 0.0, "z": 1.0 },
+					{ "x": 0.71, "y": 0.0, "z": 0.71 },
+					{ "x": 1.0, "y": 0.0, "z": 0.0 },
+					{ "x": 0.71, "y": 0.0, "z": -0.71 },
+					{ "x": 0.0, "y": 0.0, "z": -1.0 },
+					{ "x": -0.71, "y": 0.0, "z": -0.71 },
+					{ "x": -1.0, "y": 0.0, "z": 0.0 },
+					{ "x": -0.71, "y": 0.0, "z": 0.71 }
+				]
+			},
+			"density": 250.0,
+			"physicsMaterial": "Steering"
 						}
 	}
 		
