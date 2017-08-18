@@ -384,7 +384,7 @@
 								"material": "DifAsgNor"
 							}
 						],
-						"mesh": "$MOD_DATA/Objects/Mesh/truss_small.obj"
+						"mesh": "$MOD_DATA/Objects/Mesh/truss/truss_small.obj"
 					}
 				]
 			},
@@ -408,7 +408,7 @@
 								"material": "DifAsgNor"
 							}
 						],
-						"mesh": "$MOD_DATA/Objects/Mesh/truss_medium.obj"
+						"mesh": "$MOD_DATA/Objects/Mesh/truss/truss_medium.obj"
 					}
 				]
 			},
@@ -432,7 +432,7 @@
 								"material": "DifAsgNor"
 							}
 						],
-						"mesh": "$MOD_DATA/Objects/Mesh/truss_large.obj"
+						"mesh": "$MOD_DATA/Objects/Mesh/truss/truss_large.obj"
 					}
 				]
 			},
@@ -456,7 +456,7 @@
 								"material": "DifAsgNor"
 							}
 						],
-						"mesh": "$MOD_DATA/Objects/Mesh/truss_largemedium.obj"
+						"mesh": "$MOD_DATA/Objects/Mesh/truss/truss_largemedium.obj"
 					}
 				]
 			},
@@ -481,7 +481,7 @@
 								"material": "DifAsgNor"
 							}
 						],
-						"mesh": "$MOD_DATA/Objects/Mesh/truss_smallmedium.obj"
+						"mesh": "$MOD_DATA/Objects/Mesh/truss/truss_smallmedium.obj"
 					}
 				]
 			},
@@ -505,7 +505,7 @@
 								"material": "DifAsgNor"
 							}
 						],
-						"mesh": "$MOD_DATA/Objects/Mesh/truss_hub_small.obj"
+						"mesh": "$MOD_DATA/Objects/Mesh/truss/truss_hub_small.obj"
 					}
 				]
 			},
@@ -529,7 +529,7 @@
 								"material": "DifAsgNor"
 							}
 						],
-						"mesh": "$MOD_DATA/Objects/Mesh/truss_hub_medium.obj"
+						"mesh": "$MOD_DATA/Objects/Mesh/truss/truss_hub_medium.obj"
 					}
 				]
 			},
@@ -553,7 +553,7 @@
 								"material": "DifAsgNor"
 							}
 						],
-						"mesh": "$MOD_DATA/Objects/Mesh/truss_hub_large.obj"
+						"mesh": "$MOD_DATA/Objects/Mesh/truss/truss_hub_large.obj"
 					}
 				]
 			},
