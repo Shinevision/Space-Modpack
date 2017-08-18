@@ -252,14 +252,6 @@
                                     "$MOD_DATA/Objects/Textures/nonor_nor.png"
                                 ],
                                 "material": "DifAsgNor"
-                            },
-                            {
-                                "textureList": [
-                                    "$MOD_DATA/Objects/Textures/sputnik1dif.png",
-                                    "$MOD_DATA/Objects/Textures/sputnik1asg.png",
-                                    "$MOD_DATA/Objects/Textures/nonor_nor.png"
-                                ],
-                                "material": "DifAsgNor"
                             }
                         ],
                         "mesh": "$MOD_DATA/Objects/Mesh/spacecrafts/sputnik1.obj"
@@ -354,14 +346,6 @@
 				"lodList": [
 					{
 						"subMeshList" : [
-							{
-								"textureList": [
-									"$MOD_DATA/Objects/Textures/sputnik1dif.png",
-									"$MOD_DATA/Objects/Textures/sputnik1asg.png",
-									"$MOD_DATA/Objects/Textures/nonor_nor.png"
-								],
-								"material": "PoseAnimDifAsgNor"
-							},
 							{
 								"textureList": [
 									"$MOD_DATA/Objects/Textures/sputnik1dif.png",
@@ -519,22 +503,6 @@
 									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
 								],
 								"material": "DifAsgNor"
-							},
-							{
-								"textureList": [
-									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_dif.tga",
-									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
-									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
-								],
-								"material": "DifAsgNor"
-							},
-							{
-								"textureList": [
-									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_dif.tga",
-									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
-									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
-								],
-								"material": "DifAsgNor"
 							}
 						],
 						"mesh": "$MOD_DATA/Objects/Mesh/truss_hub_small.obj"
@@ -559,22 +527,6 @@
 									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
 								],
 								"material": "DifAsgNor"
-							},
-							{
-								"textureList": [
-									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_dif.tga",
-									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
-									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
-								],
-								"material": "DifAsgNor"
-							},
-							{
-								"textureList": [
-									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_dif.tga",
-									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
-									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
-								],
-								"material": "DifAsgNor"
 							}
 						],
 						"mesh": "$MOD_DATA/Objects/Mesh/truss_hub_medium.obj"
@@ -592,22 +544,6 @@
 				"lodList": [
 					{
 						"subMeshList" : [
-							{
-								"textureList": [
-									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_dif.tga",
-									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
-									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
-								],
-								"material": "DifAsgNor"
-							},
-							{
-								"textureList": [
-									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_dif.tga",
-									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
-									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
-								],
-								"material": "DifAsgNor"
-							},
 							{
 								"textureList": [
 									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_dif.tga",
