@@ -202,7 +202,7 @@
 								"material": "DifAsgNor"
 							}
 						],
-						"mesh": "$MOD_DATA/Objects/Mesh/gyroscopecore.obj"
+						"mesh": "$MOD_DATA/Objects/Mesh/instruments/gyroscopecore.obj"
 					}
 				]
 			},
