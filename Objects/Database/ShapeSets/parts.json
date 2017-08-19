@@ -37,7 +37,6 @@
 				"exitAudio": "Seat unseated"
 						}
 	},
-	
 	{
 			"uuid": "17c45d79-e806-49e3-a660-cd6e1fb33891", // soyuz top
 			"renderable": {
@@ -239,7 +238,7 @@
 			
 			
 		},
-			  {
+		{
             "uuid": "6df17e2a-5c69-473c-b12d-00f184c2e1d1", // Sputnik
             "renderable": {
                 "lodList": [
@@ -289,6 +288,7 @@
 			"density": 1250
 		},
 		{
+		
 		"uuid": "8c08a5a2-f5b2-4c4a-86df-9b7a955d4622", // Space Wheel SMALL
 			"renderable": {
 				"lodList": [
@@ -315,6 +315,7 @@
 			"density": 1250
 		},
 		{
+		
 		"uuid": "a785baa0-eda5-4d32-a7b2-63621ab61c19", // Space Wheel GIANT
 			"renderable": {
 				"lodList": [
@@ -441,7 +442,7 @@
 			"rotationSet": "PropFull"
 			
 		},
-			{
+		{
 			"uuid": "1251a7e3-cad3-49dd-993e-7b9cd4ba83f0", //large to medium truss
 			"renderable": {
 				"lodList": [
@@ -465,8 +466,7 @@
 			"rotationSet": "PropFull"
 			
 		},
-	
-			{
+		{
 			"uuid": "38e6f69a-d8b9-4715-85f8-75f3645cbe1f", //small to medium truss
 			"renderable": {
 				"lodList": [
@@ -490,7 +490,7 @@
 			"rotationSet": "PropFull"
 			
 		},
-				{
+		{
 			"uuid": "16181fcf-ef84-4039-af59-dadec5dc3e4a", //small truss hub
 			"renderable": {
 				"lodList": [
@@ -514,7 +514,7 @@
 			"rotationSet": "PropFull"
 			
 		},
-				{
+		{
 			"uuid": "496552de-0413-452b-adca-3541c998e5a0", //medium truss hub
 			"renderable": {
 				"lodList": [
@@ -538,7 +538,7 @@
 			"rotationSet": "PropFull"
 			
 		},
-				{
+		{
 			"uuid": "57640b05-c0bc-4b3a-93b0-4c5d74b46445", //large truss hub
 			"renderable": {
 				"lodList": [
@@ -563,7 +563,7 @@
 			
 		},
 		/////////////////////truss end///////////////////////
-				{
+		{
 			"uuid": "1b13a810-13e8-42e9-8dd1-e3ebe716368f", //docking module
 			"renderable": {
 				"lodList": [
@@ -587,7 +587,7 @@
 			"rotationSet": "PropFull"
 			
 		},
-			{
+		{
 			"uuid": "87f41332-31f8-47dc-9733-43edd993e596", // maneouvering thruster
 			"renderable": {
 				"lodList": [
@@ -611,7 +611,7 @@
 			"rotationSet": "PropFull"
 			
 		},
-			{ 
+		{ 
 			"uuid": "12f2a622-d183-4ff5-bbfd-278f0dcbc602", // hypertube
 			"renderable": {
 				"lodList": [
@@ -666,7 +666,7 @@
 			},
 			"density": 250.0,
 			"physicsMaterial": "Steering"
-						}
+		}
 	}
 		
 		
