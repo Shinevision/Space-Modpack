@@ -586,7 +586,7 @@
 			"rotationSet": "PropFull"
 			
 		},
-				{
+		{
 			"uuid": "57640b05-c0bc-4b3a-93b0-4c5d74b46445", //large truss hub
 			"renderable": {
 				"lodList": [
@@ -627,7 +627,7 @@
 			
 		},
 		/////////////////////truss end///////////////////////
-				{
+			{
 			"uuid": "1b13a810-13e8-42e9-8dd1-e3ebe716368f", //docking module
 			"renderable": {
 				"lodList": [
@@ -651,7 +651,7 @@
 			"rotationSet": "PropFull"
 			
 		},
-			{
+		{
 			"uuid": "87f41332-31f8-47dc-9733-43edd993e596", // maneouvering thruster
 			"renderable": {
 				"lodList": [
@@ -659,7 +659,7 @@
 						"subMeshList" : [
 							{
 								"textureList": [
-									"$MOD_DATA/Objects/Textures/soyuzrocketdif.png",
+									"$MOD_DATA/Objects/Textures/nodif_dif.png",
 									"$MOD_DATA/Objects/Textures/noasg_asg.png",
 									"$MOD_DATA/Objects/Textures/nonor_nor.png"
 								],
@@ -670,10 +670,32 @@
 					}
 				]
 			},
-			"color": "808080",
+			"color": "eeeeee",
 			"box": {"x": 1, "y": 1, "z": 1},
 			"rotationSet": "PropFull"
-			
+		},
+		{
+			"uuid": "f81c74fb-2b6b-494a-94ee-3038a79f3ab8", //toy rocket
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$MOD_DATA/Objects/Textures/nodif_dif.png",
+									"$MOD_DATA/Objects/Textures/noasg_asg.png",
+									"$MOD_DATA/Objects/Textures/nonor_nor.png"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/toy_rocket.obj"
+					}
+				]
+			},
+			"color": "eeeeee",
+			"box": {"x": 1, "y": 1, "z": 1},
+			"rotationSet": "PropFull"
 		}
 		
 		
