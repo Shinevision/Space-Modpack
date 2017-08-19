@@ -202,7 +202,7 @@
 								"material": "DifAsgNor"
 							}
 						],
-						"mesh": "$MOD_DATA/Objects/Mesh/Instruments/gyroscopecore.obj"
+						"mesh": "$MOD_DATA/Objects/Mesh/gyroscopecore.obj"
 					}
 				]
 			},
@@ -245,6 +245,14 @@
                 "lodList": [
                     {
                         "subMeshList" : [
+                            {
+                                "textureList": [
+                                    "$MOD_DATA/Objects/Textures/sputnik1dif.png",
+                                    "$MOD_DATA/Objects/Textures/sputnik1asg.png",
+                                    "$MOD_DATA/Objects/Textures/nonor_nor.png"
+                                ],
+                                "material": "DifAsgNor"
+                            },
                             {
                                 "textureList": [
                                     "$MOD_DATA/Objects/Textures/sputnik1dif.png",
@@ -353,6 +361,14 @@
 									"$MOD_DATA/Objects/Textures/nonor_nor.png"
 								],
 								"material": "PoseAnimDifAsgNor"
+							},
+							{
+								"textureList": [
+									"$MOD_DATA/Objects/Textures/sputnik1dif.png",
+									"$MOD_DATA/Objects/Textures/sputnik1asg.png",
+									"$MOD_DATA/Objects/Textures/nonor_nor.png"
+								],
+								"material": "PoseAnimDifAsgNor"
 							}
 						],
 						"mesh": "$MOD_DATA/Objects/Mesh/spacecrafts/MAYAK2.obj",
@@ -384,7 +400,7 @@
 								"material": "DifAsgNor"
 							}
 						],
-						"mesh": "$MOD_DATA/Objects/Mesh/truss/truss_small.obj"
+						"mesh": "$MOD_DATA/Objects/Mesh/truss_small.obj"
 					}
 				]
 			},
@@ -408,7 +424,7 @@
 								"material": "DifAsgNor"
 							}
 						],
-						"mesh": "$MOD_DATA/Objects/Mesh/truss/truss_medium.obj"
+						"mesh": "$MOD_DATA/Objects/Mesh/truss_medium.obj"
 					}
 				]
 			},
@@ -432,7 +448,7 @@
 								"material": "DifAsgNor"
 							}
 						],
-						"mesh": "$MOD_DATA/Objects/Mesh/truss/truss_large.obj"
+						"mesh": "$MOD_DATA/Objects/Mesh/truss_large.obj"
 					}
 				]
 			},
@@ -456,7 +472,7 @@
 								"material": "DifAsgNor"
 							}
 						],
-						"mesh": "$MOD_DATA/Objects/Mesh/truss/truss_largemedium.obj"
+						"mesh": "$MOD_DATA/Objects/Mesh/truss_largemedium.obj"
 					}
 				]
 			},
@@ -481,7 +497,7 @@
 								"material": "DifAsgNor"
 							}
 						],
-						"mesh": "$MOD_DATA/Objects/Mesh/truss/truss_smallmedium.obj"
+						"mesh": "$MOD_DATA/Objects/Mesh/truss_smallmedium.obj"
 					}
 				]
 			},
@@ -503,9 +519,25 @@
 									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
 								],
 								"material": "DifAsgNor"
+							},
+							{
+								"textureList": [
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_dif.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
+								],
+								"material": "DifAsgNor"
+							},
+							{
+								"textureList": [
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_dif.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
+								],
+								"material": "DifAsgNor"
 							}
 						],
-						"mesh": "$MOD_DATA/Objects/Mesh/truss/truss_hub_small.obj"
+						"mesh": "$MOD_DATA/Objects/Mesh/truss_hub_small.obj"
 					}
 				]
 			},
@@ -527,9 +559,25 @@
 									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
 								],
 								"material": "DifAsgNor"
+							},
+							{
+								"textureList": [
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_dif.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
+								],
+								"material": "DifAsgNor"
+							},
+							{
+								"textureList": [
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_dif.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
+								],
+								"material": "DifAsgNor"
 							}
 						],
-						"mesh": "$MOD_DATA/Objects/Mesh/truss/truss_hub_medium.obj"
+						"mesh": "$MOD_DATA/Objects/Mesh/truss_hub_medium.obj"
 					}
 				]
 			},
@@ -538,7 +586,7 @@
 			"rotationSet": "PropFull"
 			
 		},
-				{
+		{
 			"uuid": "57640b05-c0bc-4b3a-93b0-4c5d74b46445", //large truss hub
 			"renderable": {
 				"lodList": [
@@ -551,9 +599,25 @@
 									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
 								],
 								"material": "DifAsgNor"
+							},
+							{
+								"textureList": [
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_dif.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
+								],
+								"material": "DifAsgNor"
+							},
+							{
+								"textureList": [
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_dif.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
+									"$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
+								],
+								"material": "DifAsgNor"
 							}
 						],
-						"mesh": "$MOD_DATA/Objects/Mesh/truss/truss_hub_large.obj"
+						"mesh": "$MOD_DATA/Objects/Mesh/truss_hub_large.obj"
 					}
 				]
 			},
@@ -563,7 +627,7 @@
 			
 		},
 		/////////////////////truss end///////////////////////
-				{
+			{
 			"uuid": "1b13a810-13e8-42e9-8dd1-e3ebe716368f", //docking module
 			"renderable": {
 				"lodList": [
@@ -587,32 +651,8 @@
 			"rotationSet": "PropFull"
 			
 		},
-			{
+		{
 			"uuid": "87f41332-31f8-47dc-9733-43edd993e596", // maneouvering thruster
-			"renderable": {
-				"lodList": [
-					{
-						"subMeshList" : [
-							{
-								"textureList": [
-									"$MOD_DATA/Objects/Textures/soyuzrocketdif.png",
-									"$MOD_DATA/Objects/Textures/noasg_asg.png",
-									"$MOD_DATA/Objects/Textures/nonor_nor.png"
-								],
-								"material": "DifAsgNor"
-							}
-						],
-						"mesh": "$MOD_DATA/Objects/Mesh/Instruments/manouvering_thruster.obj"
-					}
-				]
-			},
-			"color": "808080",
-			"box": {"x": 1, "y": 1, "z": 1},
-			"rotationSet": "PropFull"
-			
-		},
-			{ 
-			"uuid": "12f2a622-d183-4ff5-bbfd-278f0dcbc602", // hypertube
 			"renderable": {
 				"lodList": [
 					{
@@ -626,48 +666,37 @@
 								"material": "DifAsgNor"
 							}
 						],
-						"mesh": "$MOD_DATA/Objects/Mesh/hypertube.obj"
+						"mesh": "$MOD_DATA/Objects/Mesh/Instruments/manouvering_thruster.obj"
 					}
 				]
 			},
-			"rotationSet": "PropYZ",
-			"color": "808080",
-			"seat": {
-				"bones": [
-					{ "name": "Hips", "offset": { "x": 0.0, "y": 1.55, "z": -0.15 } },
-					{ "name": "LeftForeArm", "offset": { "x": 2.7, "y": 2.7, "z": 0.3 }, "freeRotation": true },
-					{ "name": "RightForeArm", "offset": { "x": -2.7, "y": 2.7, "z": 0.2 }, "freeRotation": true }
-				],
-				"ragdollPose": "invisseat_ragdoll",
-				"enterAudio": "Seat seated",
-				"exitAudio": "Seat unseated"
-			},
-			"hull": { 
-				"x": 4, "y": 8000, "z": 4,
-				"margin": 0.01,
-				"pointList": [
-					{ "x": 0.0, "y": -1.0, "z": 1.0 },
-					{ "x": 0.71, "y": -1.0, "z": 0.71 },
-					{ "x": 1.0, "y": -1.0, "z": 0.0 },
-					{ "x": 0.71, "y": -1.0, "z": -0.71 },
-					{ "x": 0.0, "y": -1.0, "z": -1.0 },
-					{ "x": -0.71, "y": -1.0, "z": -0.71 },
-					{ "x": -1.0, "y": -1.0, "z": 0.0 },
-					{ "x": -0.71, "y": -1.0, "z": 0.71 },
-					{ "x": 0.0, "y": 0.0, "z": 1.0 },
-					{ "x": 0.71, "y": 0.0, "z": 0.71 },
-					{ "x": 1.0, "y": 0.0, "z": 0.0 },
-					{ "x": 0.71, "y": 0.0, "z": -0.71 },
-					{ "x": 0.0, "y": 0.0, "z": -1.0 },
-					{ "x": -0.71, "y": 0.0, "z": -0.71 },
-					{ "x": -1.0, "y": 0.0, "z": 0.0 },
-					{ "x": -0.71, "y": 0.0, "z": 0.71 }
+			"color": "eeeeee",
+			"box": {"x": 1, "y": 1, "z": 1},
+			"rotationSet": "PropFull"
+		},
+		{
+			"uuid": "f81c74fb-2b6b-494a-94ee-3038a79f3ab8", //toy rocket
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$MOD_DATA/Objects/Textures/nodif_dif.png",
+									"$MOD_DATA/Objects/Textures/noasg_asg.png",
+									"$MOD_DATA/Objects/Textures/nonor_nor.png"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/toy_rocket.obj"
+					}
 				]
 			},
-			"density": 250.0,
-			"physicsMaterial": "Steering"
-						}
-	}
+			"color": "eeeeee",
+			"box": {"x": 1, "y": 1, "z": 1},
+			"rotationSet": "PropFull"
+		}
 		
 		
    ]
