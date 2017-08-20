@@ -4,7 +4,7 @@
 
 	
 		////////////////////SOYUZ_START////////////////////
-			{ 
+	{ 
 			"uuid": "1082e31d-4c9a-476c-965f-1fa3e15f01cf", // soyuz seat
 			"renderable": {
 				"lodList": [
@@ -36,8 +36,9 @@
 				"enterAudio": "Seat seated",
 				"exitAudio": "Seat unseated"
 						}
-			},
-			{
+	},
+	
+	{
 			"uuid": "17c45d79-e806-49e3-a660-cd6e1fb33891", // soyuz top
 			"renderable": {
 				"lodList": [
@@ -60,8 +61,8 @@
 			"box": {"x": 6, "y": 6, "z": 6},
 			"rotationSet": "PropY"
 			
-			},
-			{
+		},
+		{
 			"uuid": "9ac6fde9-a433-4453-a72c-bf585672105f", // soyuz bottom
 			"renderable": {
 				"lodList": [
@@ -84,8 +85,8 @@
 			"box": {"x": 2, "y": 1, "z": 2},
 			"rotationSet": "PropFull"
 			
-			},
-			{
+		},
+		{
 			"uuid": "a72a6a90-1ef7-4e6b-ba7a-552b52e2c78d", // soyuz thrusters
 			"renderable": {
 				"lodList": [
@@ -107,8 +108,9 @@
 			"color": "808080",
 			"box": {"x": 4, "y": 1, "z": 1},
 			"rotationSet": "PropFull"
-			},
-			{
+			
+		},
+		{
 			"uuid": "148fec95-471e-4ed0-9aad-ae853426b69a", // soyuz Main Body + Thruster
 			"renderable": {
 				"lodList": [
@@ -131,8 +133,9 @@
 			//"box": {"x": 15, "y": 20, "z": 15},
 			"cylinder": { "diameter": 10, "depth": 45, "axis": "Y" },
 			"rotationSet": "PropFull"
-			},
-			{
+			
+		},
+		{
 			"uuid": "148fec95-471e-4ed0-9aad-ae853426b58a", // soyuz Top
 			"renderable": {
 				"lodList": [
@@ -155,9 +158,10 @@
 			//"box": {"x": 15, "y": 20, "z": 15},
 			"cylinder": { "diameter": 10, "depth": 1, "axis": "Y" },
 			"rotationSet": "PropFull"
-			},
+			
+		},
 			////////////////////SOYUZ_END////////////////////	
-			{
+		{
 			"uuid": "5ac3e614-6205-49fa-afa2-da176485f4b1", // forcefield block
 			"renderable": {
 				"lodList": [
@@ -181,8 +185,9 @@
 			"box": {"x": 1, "y": 1, "z": 1},
 			"rotationSet": "PropY",
 			"button": { }
-			},
-			{
+			
+		},
+		{
 			"uuid": "b5931b43-34f0-4c54-ad5e-36f9537c8919", // gyroscope core
 			"renderable": {
 				"lodList": [
@@ -197,7 +202,7 @@
 								"material": "DifAsgNor"
 							}
 						],
-						"mesh": "$MOD_DATA/Objects/Mesh/instruments/gyroscopecore.obj"
+						"mesh": "$MOD_DATA/Objects/Mesh/Instruments/gyroscopecore.obj"
 					}
 				]
 			},
@@ -205,8 +210,10 @@
 			"box": {"x": 1, "y": 1, "z": 1},
 			"rotationSet": "PropFull",
 			"density": 5000000
-			},
-			{
+			
+			
+		},
+		{
 			"uuid": "a9a208d2-e70a-496b-922c-630e1e84e194", // Satellite Dish
 			"renderable": {
 				"lodList": [
@@ -229,8 +236,10 @@
 			"box": {"x": 2, "y": 3, "z": 2},
 			"rotationSet": "PropFull",
 			"density": 250
-			},
-			{
+			
+			
+		},
+			  {
             "uuid": "6df17e2a-5c69-473c-b12d-00f184c2e1d1", // Sputnik
             "renderable": {
                 "lodList": [
@@ -277,7 +286,7 @@
 			"phsicsMateial" : "Metal",
 			"sticky" :"-Z+Z",
 			"rotationSet": "PropZ",
-			"density": 500
+			"density": 1250
 		},
 		{
 		"uuid": "8c08a5a2-f5b2-4c4a-86df-9b7a955d4622", // Space Wheel SMALL
@@ -303,7 +312,7 @@
 			"phsicsMateial" : "Metal",
 			"sticky" :"-Z+Z",
 			"rotationSet": "PropZ",
-			"density": 500
+			"density": 1250
 		},
 		{
 		"uuid": "a785baa0-eda5-4d32-a7b2-63621ab61c19", // Space Wheel GIANT
@@ -329,9 +338,9 @@
 			"phsicsMateial" : "Metal",
 			"sticky" :"-Z+Z",
 			"rotationSet": "PropZ",
-			"density": 500
-			},
-			{
+			"density": 1250
+		},
+		{
 			"uuid": "56640b05-c0bc-4b3a-93b0-4c5d74b46445", // MAYAK
 			"renderable": {
 				"lodList": [
@@ -355,10 +364,12 @@
 			"box": {"x": 1, "y": 2.75, "z": 1},
 			"rotationSet": "PropFull",
 			"lever": {}
-			},
+			
+			
+		},
 		
 		///////////////////////TRUSS/////////////////////////////
-			{
+		{
 			"uuid": "1d164738-5850-4e5a-a05e-6be6e96804a7", //small truss
 			"renderable": {
 				"lodList": [
@@ -380,8 +391,9 @@
 			"color": "808080",
 			"box": {"x": 1, "y": 2, "z": 1},
 			"rotationSet": "PropFull"
-			},
-			{
+			
+		},
+		{
 			"uuid": "28e929ca-ff07-411c-8b4f-e2664c177da4", //medium truss
 			"renderable": {
 				"lodList": [
@@ -404,8 +416,8 @@
 			"box": {"x": 2, "y": 4, "z": 2},
 			"rotationSet": "PropFull"
 			
-			},
-			{
+		},
+		{
 			"uuid": "b972ccd2-ddb3-4120-b6fc-2b0b680bb2e1", //large truss
 			"renderable": {
 				"lodList": [
@@ -428,7 +440,7 @@
 			"box": {"x": 3, "y": 6, "z": 3},
 			"rotationSet": "PropFull"
 			
-			},
+		},
 			{
 			"uuid": "1251a7e3-cad3-49dd-993e-7b9cd4ba83f0", //large to medium truss
 			"renderable": {
@@ -452,7 +464,8 @@
 			"box": {"x": 3, "y": 2, "z": 3},
 			"rotationSet": "PropFull"
 			
-			},
+		},
+	
 			{
 			"uuid": "38e6f69a-d8b9-4715-85f8-75f3645cbe1f", //small to medium truss
 			"renderable": {
@@ -475,8 +488,9 @@
 			"color": "808080",
 			"box": {"x": 2, "y": 1, "z": 2},
 			"rotationSet": "PropFull"
-			},
-			{
+			
+		},
+				{
 			"uuid": "16181fcf-ef84-4039-af59-dadec5dc3e4a", //small truss hub
 			"renderable": {
 				"lodList": [
@@ -499,8 +513,8 @@
 			"box": {"x": 1, "y": 1, "z": 1},
 			"rotationSet": "PropFull"
 			
-			},
-			{
+		},
+				{
 			"uuid": "496552de-0413-452b-adca-3541c998e5a0", //medium truss hub
 			"renderable": {
 				"lodList": [
@@ -522,8 +536,9 @@
 			"color": "808080",
 			"box": {"x": 2, "y": 2, "z": 2},
 			"rotationSet": "PropFull"
-			},
-			{
+			
+		},
+				{
 			"uuid": "57640b05-c0bc-4b3a-93b0-4c5d74b46445", //large truss hub
 			"renderable": {
 				"lodList": [
@@ -545,9 +560,10 @@
 			"color": "808080",
 			"box": {"x": 3, "y": 3, "z": 3},
 			"rotationSet": "PropFull"
+			
 		},
 		/////////////////////truss end///////////////////////
-		{
+				{
 			"uuid": "1b13a810-13e8-42e9-8dd1-e3ebe716368f", //docking module
 			"renderable": {
 				"lodList": [
@@ -569,7 +585,8 @@
 			"color": "808080",
 			"box": {"x": 4, "y": 1, "z": 4},
 			"rotationSet": "PropFull"
-			},
+			
+		},
 			{
 			"uuid": "87f41332-31f8-47dc-9733-43edd993e596", // maneouvering thruster
 			"renderable": {
@@ -592,7 +609,8 @@
 			"color": "808080",
 			"box": {"x": 1, "y": 1, "z": 1},
 			"rotationSet": "PropFull"
-			},
+			
+		},
 			{ 
 			"uuid": "12f2a622-d183-4ff5-bbfd-278f0dcbc602", // hypertube
 			"renderable": {
@@ -648,7 +666,9 @@
 			},
 			"density": 250.0,
 			"physicsMaterial": "Steering"
-		}
+						}
 	}
+		
+		
    ]
 }

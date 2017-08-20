@@ -173,10 +173,5 @@
 	{
 	"title": "Star Block", //Izapertron
 	"description": "Use this block to decorate your spaceship or spacestations!"
-	},
-	"943d5fdc-e882-4df8-a209-258b1dec5aac":
-	{
-	"title": "Vote Block", //Izapertron
-	"description": "!!!WARNING!!! DO NOT USE THIS IN YOUR BUILDS! \n There is a vote open right now! To Vote goto the mod's description and click the link. When vote is closed the this block will be removed! So don't place it in your world!"
 	}
 }
