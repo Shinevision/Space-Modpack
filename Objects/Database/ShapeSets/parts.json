@@ -286,7 +286,7 @@
 			"phsicsMateial" : "Metal",
 			"sticky" :"-Z+Z",
 			"rotationSet": "PropZ",
-			"density": 1250
+			"density": 500
 		},
 		{
 		"uuid": "8c08a5a2-f5b2-4c4a-86df-9b7a955d4622", // Space Wheel SMALL
@@ -312,7 +312,7 @@
 			"phsicsMateial" : "Metal",
 			"sticky" :"-Z+Z",
 			"rotationSet": "PropZ",
-			"density": 1250
+			"density": 500
 		},
 		{
 		"uuid": "a785baa0-eda5-4d32-a7b2-63621ab61c19", // Space Wheel GIANT
@@ -338,7 +338,7 @@
 			"phsicsMateial" : "Metal",
 			"sticky" :"-Z+Z",
 			"rotationSet": "PropZ",
-			"density": 1250
+			"density": 500
 		},
 		{
 			"uuid": "56640b05-c0bc-4b3a-93b0-4c5d74b46445", // MAYAK
