@@ -103,7 +103,20 @@
 			},
 			"color": "808080",
 			"box": {"x": 4, "y": 1, "z": 1},
-			"rotationSet": "PropFull"
+			"rotationSet": "PropFull",
+			"thruster":
+			{
+				"levels":
+				[
+					{ "averageForce": 2222.22, "forceVariation": 59.2592 },
+					{ "averageForce": 3333.33, "forceVariation": 88.8889 },
+					{ "averageForce": 5000, "forceVariation": 133.333 },
+					{ "averageForce": 7500, "forceVariation": 200 },
+					{ "averageForce": 11250, "forceVariation": 300 },
+					{ "averageForce": 16875, "forceVariation": 450 },
+					{ "averageForce": 25312.5, "forceVariation": 675 }
+				]
+			}
 			},
 			{
 			"uuid": "148fec95-471e-4ed0-9aad-ae853426b69a", // soyuz Main Body + Thruster
@@ -125,9 +138,22 @@
 				]
 			},
 			"color": "808080",
-			//"box": {"x": 15, "y": 20, "z": 15},
+			"color": "808080",
 			"cylinder": { "diameter": 10, "depth": 45, "axis": "Y" },
-			"rotationSet": "PropFull"
+			"rotationSet": "PropFull",
+			"thruster":
+			{
+				"levels":
+				[
+					{ "averageForce": 2222.22, "forceVariation": 59.2592 },
+					{ "averageForce": 3333.33, "forceVariation": 88.8889 },
+					{ "averageForce": 5000, "forceVariation": 133.333 },
+					{ "averageForce": 7500, "forceVariation": 200 },
+					{ "averageForce": 11250, "forceVariation": 300 },
+					{ "averageForce": 16875, "forceVariation": 450 },
+					{ "averageForce": 25312.5, "forceVariation": 675 }
+				]
+			}
 			},
 			{
 			"uuid": "148fec95-471e-4ed0-9aad-ae853426b58a", // soyuz Top
@@ -583,7 +609,20 @@
 			},
 			"color": "808080",
 			"box": {"x": 1, "y": 1, "z": 1},
-			"rotationSet": "PropFull"
+			"rotationSet": "PropFull",
+			"thruster":
+			{
+				"levels":
+				[
+					{ "averageForce": 2222.22, "forceVariation": 59.2592 },
+					{ "averageForce": 3333.33, "forceVariation": 88.8889 },
+					{ "averageForce": 5000, "forceVariation": 133.333 },
+					{ "averageForce": 7500, "forceVariation": 200 },
+					{ "averageForce": 11250, "forceVariation": 300 },
+					{ "averageForce": 16875, "forceVariation": 450 },
+					{ "averageForce": 25312.5, "forceVariation": 675 }
+				]
+			}
 			},
 			{ 
 			"uuid": "12f2a622-d183-4ff5-bbfd-278f0dcbc602", // hypertube
