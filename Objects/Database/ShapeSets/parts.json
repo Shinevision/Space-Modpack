@@ -24,7 +24,8 @@
 			"color": "808080",
 			"box": {"x": 6, "y": 6, "z": 3},
 			"rotationSet": "PropY",
-			"seat": {
+			"density": 30,
+			"steering": {
 				"bones": [
 					{ "name": "Hips", "offset": { "x": 0.0, "y": -4.0, "z": -0.5 } },
 					{ "name": "LeftForeArm", "offset": { "x": 0.0, "y": -4.0, "z": -0.5 }, "freeRotation": true },
@@ -56,7 +57,8 @@
 			},
 			"color": "808080",
 			"box": {"x": 6, "y": 6, "z": 6},
-			"rotationSet": "PropY"
+			"rotationSet": "PropY",
+			"density": 30
 			
 			},
 			{
@@ -138,20 +140,47 @@
 				]
 			},
 			"color": "808080",
-			"color": "808080",
-			"cylinder": { "diameter": 10, "depth": 45, "axis": "Y" },
+			
+			"hull": {
+                "x": 20, "y": 20, "z": 44,
+                "pointList": [
+                    { "x": 0, "y": -10.60660172, "z": 7.77196051 },
+{ "x": 0, "y": -10.60660172, "z": 22.50000000 },
+{ "x": -10.60660172, "y": 0, "z": 7.77196051 },
+{ "x": -10.60660172, "y": 0, "z": 22.50000000 },
+{ "x": 10.60660172, "y": 0, "z": 7.77196051 },
+{ "x": 10.60660172, "y": 0, "z": 22.50000000 },
+{ "x": 0, "y": 10.60660172, "z": 7.77196051 },
+{ "x": 0, "y": 10.60660172, "z": 22.50000000 },
+{ "x": 0, "y": -7.25491557, "z": -7.93310309 },
+{ "x": -7.25491557, "y": 0, "z": -7.93310309 },
+{ "x": 0, "y": 7.25491557, "z": -7.93310309 },
+{ "x": 7.25491557, "y": 0, "z": -7.93310309 },
+{ "x": 0, "y": -6.00733127, "z": -17.41921379 },
+{ "x": -6.00733127, "y": 0, "z": -17.41921379 },
+{ "x": 0, "y": 6.00733127, "z": -17.41921379 },
+{ "x": 6.00733127, "y": 0, "z": -17.41921379 },
+{ "x": 0, "y": -4.19334120, "z": -20.56593342 },
+{ "x": -4.19334120, "y": 0, "z": -20.56593342 },
+{ "x": 0, "y": 4.19334120, "z": -20.56593342 },
+{ "x": 4.19334120, "y": 0, "z": -20.56593342 }
+
+
+
+                ]
+            },
 			"rotationSet": "PropFull",
 			"thruster":
 			{
 				"levels":
 				[
-					{ "averageForce": 2222.22, "forceVariation": 59.2592 },
-					{ "averageForce": 3333.33, "forceVariation": 88.8889 },
-					{ "averageForce": 5000, "forceVariation": 133.333 },
-					{ "averageForce": 7500, "forceVariation": 200 },
-					{ "averageForce": 11250, "forceVariation": 300 },
-					{ "averageForce": 16875, "forceVariation": 450 },
-					{ "averageForce": 25312.5, "forceVariation": 675 }
+					{ "averageForce": 2222.22, "forceVariation": 0 },
+					{ "averageForce": 3333.33, "forceVariation": 0 },
+					{ "averageForce": 5000, "forceVariation": 0 },
+					{ "averageForce": 7500, "forceVariation": 0 },
+					{ "averageForce": 11250, "forceVariation": 0 },
+					{ "averageForce": 16875, "forceVariation": 0 },
+					{ "averageForce": 8178000.0, "forceVariation": 0 }
 				]
 			}
 			},
@@ -249,7 +278,7 @@
 				]
 			},
 			"color": "464646",
-			"box": {"x": 2, "y": 3, "z": 2},
+			"box": {"x": 1, "y": 3, "z": 1},
 			"rotationSet": "PropFull",
 			"density": 250
 			},
@@ -614,71 +643,16 @@
 			{
 				"levels":
 				[
-					{ "averageForce": 2222.22, "forceVariation": 59.2592 },
-					{ "averageForce": 3333.33, "forceVariation": 88.8889 },
-					{ "averageForce": 5000, "forceVariation": 133.333 },
-					{ "averageForce": 7500, "forceVariation": 200 },
-					{ "averageForce": 11250, "forceVariation": 300 },
-					{ "averageForce": 16875, "forceVariation": 450 },
-					{ "averageForce": 25312.5, "forceVariation": 675 }
+					{ "averageForce": 2222.22, "forceVariation": 0 },
+					{ "averageForce": 3333.33, "forceVariation": 0 },
+					{ "averageForce": 5000, "forceVariation": 0 },
+					{ "averageForce": 7500, "forceVariation": 0 },
+					{ "averageForce": 11250, "forceVariation": 0 },
+					{ "averageForce": 16875, "forceVariation": 0 },
+					{ "averageForce": 25312.5, "forceVariation": 0 }
 				]
 			}
-			},
-			{ 
-			"uuid": "12f2a622-d183-4ff5-bbfd-278f0dcbc602", // hypertube
-			"renderable": {
-				"lodList": [
-					{
-						"subMeshList" : [
-							{
-								"textureList": [
-									"$MOD_DATA/Objects/Textures/nodif_dif.png",
-									"$MOD_DATA/Objects/Textures/noasg_asg.png",
-									"$MOD_DATA/Objects/Textures/nonor_nor.png"
-								],
-								"material": "DifAsgNor"
-							}
-						],
-						"mesh": "$MOD_DATA/Objects/Mesh/hypertube.obj"
-					}
-				]
-			},
-			"rotationSet": "PropYZ",
-			"color": "808080",
-			"seat": {
-				"bones": [
-					{ "name": "Hips", "offset": { "x": 0.0, "y": 1.55, "z": -0.15 } },
-					{ "name": "LeftForeArm", "offset": { "x": 2.7, "y": 2.7, "z": 0.3 }, "freeRotation": true },
-					{ "name": "RightForeArm", "offset": { "x": -2.7, "y": 2.7, "z": 0.2 }, "freeRotation": true }
-				],
-				"ragdollPose": "invisseat_ragdoll",
-				"enterAudio": "Seat seated",
-				"exitAudio": "Seat unseated"
-			},
-			"hull": { 
-				"x": 4, "y": 8000, "z": 4,
-				"margin": 0.01,
-				"pointList": [
-					{ "x": 0.0, "y": -1.0, "z": 1.0 },
-					{ "x": 0.71, "y": -1.0, "z": 0.71 },
-					{ "x": 1.0, "y": -1.0, "z": 0.0 },
-					{ "x": 0.71, "y": -1.0, "z": -0.71 },
-					{ "x": 0.0, "y": -1.0, "z": -1.0 },
-					{ "x": -0.71, "y": -1.0, "z": -0.71 },
-					{ "x": -1.0, "y": -1.0, "z": 0.0 },
-					{ "x": -0.71, "y": -1.0, "z": 0.71 },
-					{ "x": 0.0, "y": 0.0, "z": 1.0 },
-					{ "x": 0.71, "y": 0.0, "z": 0.71 },
-					{ "x": 1.0, "y": 0.0, "z": 0.0 },
-					{ "x": 0.71, "y": 0.0, "z": -0.71 },
-					{ "x": 0.0, "y": 0.0, "z": -1.0 },
-					{ "x": -0.71, "y": 0.0, "z": -0.71 },
-					{ "x": -1.0, "y": 0.0, "z": 0.0 },
-					{ "x": -0.71, "y": 0.0, "z": 0.71 }
-				]
-			},
-			"density": 250.0,
-			"physicsMaterial": "Steering"
-			}	
+			}
+			
 		]
 }
