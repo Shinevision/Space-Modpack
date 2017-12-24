@@ -7,17 +7,17 @@
 	"12873d2a-07b0-4ed2-a052-5d82ee30a3a2": //Izapertron
 	{
 		"title": "Solar Panel Block",
-		"description": "Use this block to generate power for your space stations space ships"
+		"description": "Use this block to generate power"
 	},
 	"a0317c48-b404-4b77-8569-9612b7d01f52": //Izapertron
 	{
 		"title": "Insulation",
-		"description": "Use this block to add to amazing creations or space stations!"
+		"description": "Use this block for heat stability!"
 	},
 	"09c99d75-22ac-4dcf-8dba-85e30732066f": //shinevision
 	{
 		"title": "Solar Panel",
-		"description": "Use this block to generate power for your space stations space ships!"
+		"description": "Use this block to generate power!"
 	},
 	"b856bf02-08ba-4ff6-8b07-80bd37e08175": //Izapertron
 	{
@@ -26,13 +26,13 @@
 	},
 	"acc14fa2-7f72-45af-8ffc-91197c453580": //shinevision
 	{
-		"title": "#4286f4 Space stations #ff0000 Hazard #4286f4 block",
+		"title": "Space stations Hazard block",
 		"description": "Use this block to build the insides you your space stations or space ships!"
 	},
 	"200487e7-97eb-49af-980c-6342fd39eca6": //shinevision
 	{
 		"title": "Radiator Panel",
-		"description": "Use this block to cool down your space stations"
+		"description": "Use this block to radiate heat away faster objects!"
 	},
 	"60d11652-5f27-4b1c-b49c-08767c52cc5b": //Dart Frog
 	{
@@ -62,12 +62,7 @@
 	"a9a208d2-e70a-496b-922c-630e1e84e194": //shinevision
 	{
 		"title": "Satellite Dish",
-		"description": "Use this block to send back data back to earth!"
-	},
-		"4734af69-3213-4cf6-b621-9049882308b1": //Izapertron
-	{
-		"title": "Galaxy Wallpaper Block",
-		"description": "Use this block to decorate your space station or space ship!"
+		"description": "Use this block to send data!"
 	},
 	"6df17e2a-5c69-473c-b12d-00f184c2e1d1": //Dart Frog
 	{
@@ -87,17 +82,17 @@
 	"abaaf3ec-102c-4f81-88cf-31716d1a1f9d": //Izapertron
 	{
 		"title": "Space Wheel Large",
-		"description": "Use this block to make space rovers or space cars! This is the same size as the Large Wheel in game! \n\n Credit:NASA"
+		"description": "Use this block to make space rovers or space cars! This is the same size as the Large Wheel in game!"
 	},
 	"8c08a5a2-f5b2-4c4a-86df-9b7a955d4622": //Izapertron
 	{
 		"title": "Space Wheel Small",
-		"description": "Use this block to make space rovers or space cars! This is the same size as the Small Wheel in game! \n\n Credit:NASA"
+		"description": "Use this block to make space rovers or space cars! This is the same size as the Small Wheel in game!"
 	},
 	"a785baa0-eda5-4d32-a7b2-63621ab61c19": //Izapertron
 	{
 		"title": "Space Wheel Giant",
-		"description": "Use this block to make space rovers or space cars! This is a GIANT wheel! \n\n Credit:NASA"
+		"description": "Use this block to make space rovers or space cars! This is a GIANT wheel!"
 	},
 	//Dart Frog start
 	"1d164738-5850-4e5a-a05e-6be6e96804a7":
@@ -156,18 +151,18 @@
 	"56640b05-c0bc-4b3a-93b0-4c5d74b46445":
 	{
 	"title": "MAYAK Satellite",
-	"description": "The brightest ever satellite for now! It may be even brighter than Venus! Click to expand the pyramid! 1:1 SCALE!!!"
+	"description": "The brightest ever satellite! Unfortunattely, it got damaged and it couldn't deploy the triangle :( Click to expand the pyramid! 1:1 SCALE!!!"
 	},
 	"87f41332-31f8-47dc-9733-43edd993e596":
 	{
 	"title": "Manouvering Thruster",
-	"description": "Used to manouver your vehicle! Has same power as normal thruster!"
+	"description": "Used to manouver your vehicle!"
 	},
 	//Dart Frog end
 	"7b8a28c0-ca47-406c-a2c2-92a2e7505413":
 	{
 	"title": "Fabric Block", //Izapertron
-	"description": "Use this block to decorate your spaceship or spacestations!"
+	"description": "Use this block to build structure of your buildings!"
 	},
 	"3ddea6a1-97ad-44e5-827c-fa47ee044723":
 	{

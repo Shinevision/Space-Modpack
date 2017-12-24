@@ -1,24 +1,24 @@
 {
 	"blockList":
 	[
-		{
-			"uuid": "7d1e1d93-b7f8-4f4e-ab7b-c86e3566cf6c", //Ship block
-			"dif": "$MOD_DATA/Objects/Textures/shipblock_dif.png",
-			"asg": "$MOD_DATA/Objects/Textures/noasg_asg.png",
-			"nor": "$MOD_DATA/Objects/Textures/shipblock_nor.png",
-			"color": "dce3ef",
-			"tiling": 1,
-			"physicsMaterial": "Metal"
-		},
-		{
-			"uuid": "12873d2a-07b0-4ed2-a052-5d82ee30a3a2", //Solar panel 1
-			"dif": "$MOD_DATA/Objects/Textures/solarpanel_dif.png",
-			"asg": "$MOD_DATA/Objects/Textures/solarpanel_asg.png",
-			"nor": "$MOD_DATA/Objects/Textures/solarpanel_nor.png",
-			"color": "000000",
-			"tiling": 1,
-			"physicsMaterial": "Metal"
-		},
+		//{
+		//	"uuid": "7d1e1d93-b7f8-4f4e-ab7b-c86e3566cf6c", //Ship block
+		//	"dif": "$MOD_DATA/Objects/Textures/shipblock_dif.png",
+		//	"asg": "$MOD_DATA/Objects/Textures/noasg_asg.png",
+		//	"nor": "$MOD_DATA/Objects/Textures/shipblock_nor.png",
+		//	"color": "dce3ef",
+		//	"tiling": 1,
+		//	"physicsMaterial": "Metal"
+		//},
+		//{
+		//	"uuid": "12873d2a-07b0-4ed2-a052-5d82ee30a3a2", //Solar panel 1
+		//	"dif": "$MOD_DATA/Objects/Textures/solarpanel_dif.png",
+		//	"asg": "$MOD_DATA/Objects/Textures/solarpanel_asg.png",
+		//	"nor": "$MOD_DATA/Objects/Textures/solarpanel_nor.png",
+		//	"color": "000000",
+		//	"tiling": 1,
+		//	"physicsMaterial": "Metal"
+		//},
 		{
 			"uuid": "a0317c48-b404-4b77-8569-9612b7d01f52", //Inulation block
 			"dif": "$MOD_DATA/Objects/Textures/ins_dif.png",
@@ -64,15 +64,15 @@
 			"tiling": 8,
 			"phisicsMaterial": "Rock"
 		},
-		{
-			"uuid": "4734af69-3213-4cf6-b621-9049882308b1", //Galaxy block
-			"dif": "$MOD_DATA/Objects/Textures/galaxy.png",
-			"asg": "$MOD_DATA/Objects/Textures/noasg_asg.png",
-			"nor": "$MOD_DATA/Objects/Textures/nonor_nor.png",
-			"color": "000000",
-			"tiling": 8,
-			"physicsMaterial": "Plastic"
-		},	
+		//{
+		//	"uuid": "4734af69-3213-4cf6-b621-9049882308b1", //Galaxy block
+		//	"dif": "$MOD_DATA/Objects/Textures/galaxy.png",
+		//	"asg": "$MOD_DATA/Objects/Textures/noasg_asg.png",
+		//	"nor": "$MOD_DATA/Objects/Textures/nonor_nor.png",
+		//	"color": "000000",
+		//	"tiling": 8,
+		//	"physicsMaterial": "Plastic"
+		//},	
 		{
 			"uuid": "7b8a28c0-ca47-406c-a2c2-92a2e7505413", //Fabric block
 			"dif": "$MOD_DATA/Objects/Textures/Fabric_Block.png",

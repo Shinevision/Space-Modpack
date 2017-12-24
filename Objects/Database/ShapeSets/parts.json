@@ -84,7 +84,7 @@
 			"box": {"x": 2, "y": 1, "z": 2},
 			"rotationSet": "PropFull"
 			},
-			{
+			/*{
 			"uuid": "a72a6a90-1ef7-4e6b-ba7a-552b52e2c78d", // soyuz thrusters
 			"renderable": {
 				"lodList": [
@@ -119,7 +119,7 @@
 					{ "averageForce": 25312.5, "forceVariation": 675 }
 				]
 			}
-			},
+			},*/
 			{
 			"uuid": "148fec95-471e-4ed0-9aad-ae853426b69a", // soyuz Main Body + Thruster
 			"renderable": {
@@ -278,7 +278,7 @@
 				]
 			},
 			"color": "464646",
-			"box": {"x": 1, "y": 3, "z": 1},
+			"box": {"x": 1, "y": 3, "z": 2},
 			"rotationSet": "PropFull",
 			"density": 250
 			},
@@ -398,8 +398,8 @@
 								"material": "PoseAnimDifAsgNor"
 							}
 						],
-						"mesh": "$MOD_DATA/Objects/Mesh/spacecrafts/MAYAK_expanded2.obj",
-						"pose0": "$MOD_DATA/Objects/Mesh/spacecrafts/MAYAK2.obj"
+						"mesh": "$MOD_DATA/Objects/Mesh/spacecrafts/MAYAK2.obj",
+						"pose0": "$MOD_DATA/Objects/Mesh/spacecrafts/MAYAK_expanded2.obj"
 					}
 				]
 			},
