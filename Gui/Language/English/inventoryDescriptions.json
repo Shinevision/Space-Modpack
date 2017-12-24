@@ -76,7 +76,7 @@
 	},
 	"148fec95-471e-4ed0-9aad-ae853426b69a": //Dart Frog & Shinevision
 	{
-		"title": "Rocket Body",
+		"title": "Scrap Rocket Body",
 		"description": "Used to place things into orbit"
 	},
 	"abaaf3ec-102c-4f81-88cf-31716d1a1f9d": //Izapertron
@@ -168,5 +168,15 @@
 	{
 	"title": "Star Block", //Izapertron
 	"description": "Use this block to decorate your spaceship or spacestations!"
+	},
+	"148fec95-471e-4ed0-9aad-ae853426b58a":
+	{
+	"title": "Scrap Rocket fairing",
+	"description": "You don't wanna burn during getting to orbit, do you?"
+	},
+	"943d5fdc-e882-4df8-a209-258b1dec5aac":
+	{
+	"title": "#ff0000 Information Block",
+	"description": "#FF9000All information about last updates will appear here! \n\n#0000ffCurrent Workshop version: V1.0\nCurrent Game Files version: V1.0\n\n\n#ff9000Visit mod on workshop page to download Game files part!\n\n If you don't know how to use something, check mod description on the workshop!\n\n Search #0000ffSoyuz Spacecraft #ff9000and #0000ffScrap Rocket #ff9000on the workhop for already working examples!"
 	}
 }

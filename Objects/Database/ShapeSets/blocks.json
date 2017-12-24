@@ -90,15 +90,15 @@
 			"color": "000000",
 			"tiling": 8,
 			"physicsMaterial": "Plastic"
-		}//,
-//		{
-//			"uuid": "943d5fdc-e882-4df8-a209-258b1dec5aac", //Vote block (COMMENT OUT THIS CODE IF THERE IS NO VOTING ATM)
-//			"dif": "$MOD_DATA/Objects/Textures/vote_dif.png",
-//			"asg": "$MOD_DATA/Objects/Textures/noasg_asg.png",
-//			"nor": "$MOD_DATA/Objects/Textures/nonor_nor.png",
-//			"color": "000000",
-//			"tiling": 1,
-//			"physicsMaterial": "Plastic"
-//		}
+		},
+		{
+			"uuid": "943d5fdc-e882-4df8-a209-258b1dec5aac",
+			"dif": "$MOD_DATA/Objects/Textures/infblock_dif.png",
+			"asg": "$MOD_DATA/Objects/Textures/noasg_asg.png",
+			"nor": "$MOD_DATA/Objects/Textures/nonor_nor.png",
+			"color": "ffffff",
+			"tiling": 1,
+			"physicsMaterial": "Plastic"
+		}
 	]
 }
