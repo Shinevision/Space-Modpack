@@ -32,7 +32,7 @@
 	"200487e7-97eb-49af-980c-6342fd39eca6": //shinevision
 	{
 		"title": "Radiator Panel",
-		"description": "Use this block to radiate heat away faster objects!"
+		"description": "Use this block to radiate heat away faster from your objects!"
 	},
 	"60d11652-5f27-4b1c-b49c-08767c52cc5b": //Dart Frog
 	{
@@ -52,7 +52,7 @@
 	"9ac6fde9-a433-4453-a72c-bf585672105f": //Dart Frog
 	{
 		"title": "Soyuz propulsion module",
-		"description": "Place this part first! It's a thruster so you already have forward thrust! Hide stabilizers and fly mechanics inside!"
+		"description": "Place this part first! Hide stabilizers and fly mechanics inside!"
 	},
 	"5ac3e614-6205-49fa-afa2-da176485f4b1": //Dart Frog
 	{
@@ -67,7 +67,7 @@
 	"6df17e2a-5c69-473c-b12d-00f184c2e1d1": //Dart Frog
 	{
 		"title": "Sputnik Satellite",
-		"description": "First artifficial satellite!"
+		"description": "First artificial satellite!"
 	},
 	"b5931b43-34f0-4c54-ad5e-36f9537c8919": //Dart Frog
 	{
@@ -155,8 +155,8 @@
 	},
 	"87f41332-31f8-47dc-9733-43edd993e596":
 	{
-	"title": "Manouvering Thruster",
-	"description": "Used to manouver your vehicle!"
+	"title": "Maneuvering Thruster",
+	"description": "Used to maneuver your vehicle!"
 	},
 	//Dart Frog end
 	"7b8a28c0-ca47-406c-a2c2-92a2e7505413":
@@ -167,7 +167,7 @@
 	"3ddea6a1-97ad-44e5-827c-fa47ee044723":
 	{
 	"title": "Star Block", //Izapertron
-	"description": "Use this block to decorate your spaceship or spacestations!"
+	"description": "Use this block to decorate your spaceship or space stations!"
 	},
 	"148fec95-471e-4ed0-9aad-ae853426b58a":
 	{
