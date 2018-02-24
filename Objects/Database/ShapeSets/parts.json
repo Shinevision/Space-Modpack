@@ -652,7 +652,80 @@
 					{ "averageForce": 25312.5, "forceVariation": 0 }
 				]
 			}
+			},
+			//SPACEX start
+			{
+			"uuid": "c9d24293-da34-4139-ac05-a5499210d594", // Merlin Vacuum Engine
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$MOD_DATA/Objects/Textures/MerlinVacuum_dif.png",
+									"$MOD_DATA/Objects/Textures/noasg_asg.png",
+									"$MOD_DATA/Objects/Textures/nonor_nor.png"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/spacex/MerlinVacuum2.obj"
+					}
+				]
+			},
+			"color": "808080",
+			"cylinder": { "diameter":9 , "depth": 14, "axis": "Z" },
+			"rotationSet": "PropFull",
+			"thruster":
+			{
+				"levels":
+				[
+					{ "averageForce": 35555.52, "forceVariation": 0 },
+					{ "averageForce": 53333.28, "forceVariation": 0 },
+					{ "averageForce": 80000, "forceVariation": 0 },
+					{ "averageForce": 120000, "forceVariation": 0 },
+					{ "averageForce": 180000, "forceVariation": 0 },
+					{ "averageForce": 270000, "forceVariation": 0 },
+					{ "averageForce": 405000, "forceVariation": 0 }
+				]
 			}
-			
+			},
+			{
+			"uuid": "08c0ac37-8fce-4358-9603-473f9dc2e6e1", // Merlin Engine
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$MOD_DATA/Objects/Textures/MerlinVacuum_dif.png",
+									"$MOD_DATA/Objects/Textures/noasg_asg.png",
+									"$MOD_DATA/Objects/Textures/nonor_nor.png"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/spacex/MerlinVacuum.obj"
+					}
+				]
+			},
+			"color": "808080",
+			"cylinder": { "diameter":3 , "depth": 5, "axis": "Z" },
+			"rotationSet": "PropFull",
+			"thruster":
+			{
+				"levels":
+				[
+					{ "averageForce": 2222.22, "forceVariation": 0 },
+					{ "averageForce": 3333.33, "forceVariation": 0 },
+					{ "averageForce": 5000, "forceVariation": 0 },
+					{ "averageForce": 7500, "forceVariation": 0 },
+					{ "averageForce": 11250, "forceVariation": 0 },
+					{ "averageForce": 16875, "forceVariation": 0 },
+					{ "averageForce": 25312.5, "forceVariation": 0 }
+				]
+			}
+			}
+			//spacex end
 		]
 }
