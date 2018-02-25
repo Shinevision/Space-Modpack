@@ -716,6 +716,83 @@
 			{
 				"levels":
 				[
+					{ "averageForce": 35555.52, "forceVariation": 0 },
+					{ "averageForce": 53333.28, "forceVariation": 0 },
+					{ "averageForce": 80000, "forceVariation": 0 },
+					{ "averageForce": 120000, "forceVariation": 0 },
+					{ "averageForce": 180000, "forceVariation": 0 },
+					{ "averageForce": 270000, "forceVariation": 0 },
+					{ "averageForce": 405000, "forceVariation": 0 }
+				]
+			}
+			},
+			{
+			"uuid": "2cbf9e07-fed9-415b-9362-1dba41227b85", // Landing Leg Falcon 9
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$MOD_DATA/Objects/Textures/nodif_dif.png",
+									"$MOD_DATA/Objects/Textures/noasg_asg.png",
+									"$MOD_DATA/Objects/Textures/nonor_nor.png"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/spacex/LandingLegFalcon9.obj"
+					}
+				]
+			},
+			"color": "404040",
+			
+			"hull": {
+                "x": 7, "y": 16, "z": 1,
+                "pointList": [
+                    
+{ "x": -3.50000000, "y": -8.00000000, "z": -0.50000000 },
+{ "x": -3.50000000, "y": -8.00000000, "z": 0.50000000 },
+{ "x": -0.49000000, "y": 8.00000000, "z": -0.50000000 },
+{ "x": -0.49000000, "y": 8.00000000, "z": -0.42647669 },
+{ "x": 3.50000000, "y": -8.00000000, "z": -0.50000000 },
+{ "x": 3.50000000, "y": -8.00000000, "z": 0.50000000 },
+{ "x": 0.49000000, "y": 8.00000000, "z": -0.50000000 },
+{ "x": 0.49000000, "y": 8.00000000, "z": -0.42647669 },
+{ "x": -0.78603000, "y": 5.86768572, "z": 0.50000000 },
+{ "x": 0.78603000, "y": 5.86768572, "z": 0.50000000 }
+
+
+                ]
+            },
+			"rotationSet": "PropFull"
+			},
+			{
+			"uuid": "1f968c9d-3186-48bc-ba13-10dbb5d93e9b", // GRIDFIN
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$MOD_DATA/Objects/Textures/nodif_dif.png",
+									"$MOD_DATA/Objects/Textures/noasg_asg.png",
+									"$MOD_DATA/Objects/Textures/nonor_nor.png"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/spacex/gridfin.obj"
+					}
+				]
+			},
+			"color": "404040",
+			"box": {"x": 3, "y": 4, "z": 1},
+			"rotationSet": "PropFull",
+			"thruster":
+			{
+				"levels":
+				[
 					{ "averageForce": 2222.22, "forceVariation": 0 },
 					{ "averageForce": 3333.33, "forceVariation": 0 },
 					{ "averageForce": 5000, "forceVariation": 0 },
@@ -726,6 +803,7 @@
 				]
 			}
 			}
+			
 			//spacex end
 		]
 }
