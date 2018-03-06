@@ -802,6 +802,29 @@
 					{ "averageForce": 25312.5, "forceVariation": 0 }
 				]
 			}
+			},
+			{
+			"uuid": "64cba4fa-bc36-40a1-a1f4-3fd2347de4e1", //Falcon 9 1st stage shell
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$MOD_DATA/Objects/Textures/falcon91ststageshell_dif.png",
+									"$MOD_DATA/Objects/Textures/noasg_asg.png",
+									"$MOD_DATA/Objects/Textures/nonor_nor.png"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/spacex/falcon91ststageshell.obj"
+					}
+				]
+			},
+			"color": "F1F1F1",
+			"box": {"x": 1, "y": 1, "z": 1},
+			"rotationSet": "PropFull"
 			}
 			
 			//spacex end
