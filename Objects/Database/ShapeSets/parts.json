@@ -825,6 +825,75 @@
 			"color": "F1F1F1",
 			"box": {"x": 1, "y": 1, "z": 1},
 			"rotationSet": "PropFull"
+			},
+			{
+			"uuid": "5b40f43c-9220-4c0f-8307-7122b464eab1", //Falcon 9 interstage shell
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$MOD_DATA/Objects/Textures/falcon91ststageshell_dif.png",
+									"$MOD_DATA/Objects/Textures/noasg_asg.png",
+									"$MOD_DATA/Objects/Textures/nonor_nor.png"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/spacex/falcon9interstageshell.obj"
+					}
+				]
+			},
+			"color": "F1F1F1",
+			"box": {"x": 1, "y": 1, "z": 1},
+			"rotationSet": "PropFull"
+			},
+			{
+			"uuid": "71dd506b-9694-4258-aafa-7bd290a8f196", //Falcon 9 2nd stage shell
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$MOD_DATA/Objects/Textures/falcon91ststageshell_dif.png",
+									"$MOD_DATA/Objects/Textures/noasg_asg.png",
+									"$MOD_DATA/Objects/Textures/nonor_nor.png"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/spacex/falcon92ndstageshell.obj"
+					}
+				]
+			},
+			"color": "F1F1F1",
+			"box": {"x": 1, "y": 1, "z": 1},
+			"rotationSet": "PropFull"
+			},
+			{
+			"uuid": "cf2d3430-0a7a-4f41-a90c-76a23ce50146", //Falcon 9 fairing half
+			"renderable": {
+				"lodList": [
+					{
+						"subMeshList" : [
+							{
+								"textureList": [
+									"$MOD_DATA/Objects/Textures/falcon91ststageshell_dif.png",
+									"$MOD_DATA/Objects/Textures/noasg_asg.png",
+									"$MOD_DATA/Objects/Textures/nonor_nor.png"
+								],
+								"material": "DifAsgNor"
+							}
+						],
+						"mesh": "$MOD_DATA/Objects/Mesh/spacex/falcon9fairing.obj"
+					}
+				]
+			},
+			"color": "F1F1F1",
+			"box": {"x": 2, "y": 1, "z": 11},
+			"rotationSet": "PropFull"
 			}
 			
 			//spacex end
