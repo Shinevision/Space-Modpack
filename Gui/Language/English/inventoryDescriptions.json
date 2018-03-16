@@ -178,5 +178,47 @@
 	{
 	"title": "#ff0000 Information Block",
 	"description": "#FF9000All information about last updates will appear here! \n\n#0000ffCurrent Workshop version: V1.0\nCurrent Game Files version: V1.0\n\n\n#ff9000Visit mod on workshop page to download Game files part!\n\n If you don't know how to use something, check mod description on the workshop!\n\n Search #0000ffSoyuz Spacecraft #ff9000and #0000ffScrap Rocket #ff9000on the workshop for already working examples!"
+	},
+	
+	//spacex
+	"08c0ac37-8fce-4358-9603-473f9dc2e6e1":
+	{
+	"title": "Merlin Thruster",
+	"description": "1ST stage merlin thruster"
+	},
+	"c9d24293-da34-4139-ac05-a5499210d594":
+	{
+	"title": "Merlin Vacuum Thruster",
+	"description": "2ND stage merlin thruster"
+	},
+	"2cbf9e07-fed9-415b-9362-1dba41227b85":
+	{
+	"title": "ScrapX Landing Leg",
+	"description": "Used to recover parts of rockets"
+	},
+	"1f968c9d-3186-48bc-ba13-10dbb5d93e9b":
+	{
+	"title": "Gridfin",
+	"description": "Used to steer descending booster \n\n[THRUSTER, IT ACCUALLY CAN STEER]"
+	},
+	"64cba4fa-bc36-40a1-a1f4-3fd2347de4e1":
+	{
+	"title": "Falcon 9 1ST stage shell",
+	"description": "1 block collision shell for 1st stage of falcon 9/heavy"
+	},
+	"5b40f43c-9220-4c0f-8307-7122b464eab1":
+	{
+	"title": "Falcon 9 interstage",
+	"description": ""
+	},
+	"71dd506b-9694-4258-aafa-7bd290a8f196":
+	{
+	"title": "Falcon 9 2ND stage shell",
+	"description": ""
+	},
+	"cf2d3430-0a7a-4f41-a90c-76a23ce50146":
+	{
+	"title": "Falcon 9 Fairing half",
+	"description": "Used to protect payload from aerodynamic forces\n\nhas special collision that allows for easy and stable payload separation mechanism"
 	}
 }
